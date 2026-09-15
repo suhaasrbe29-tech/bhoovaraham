@@ -1,0 +1,60 @@
+{
+  "summary": {
+    "total_parcels": 1420,
+    "verified_parcels": 1348,
+    "pending_verification": 72,
+    "ai_alerts_active": 14,
+    "high_priority_alerts": 3,
+    "digitized_villages": 18,
+    "ulpin_saturation_pct": 98.6
+  },
+  "land_use_distribution": [
+    { "type": "Agricultural", "count": 890, "area_acres": 2180.4, "color": "#15803d" },
+    { "type": "Residential", "count": 312, "area_acres": 145.8, "color": "#eab308" },
+    { "type": "Commercial", "count": 78, "area_acres": 52.3, "color": "#3b82f6" },
+    { "type": "Water Body / Buffers", "count": 45, "area_acres": 189.0, "color": "#06b6d4" },
+    { "type": "Government / Public", "count": 95, "area_acres": 114.5, "color": "#6366f1" }
+  ],
+  "recent_activities": [
+    {
+      "id": "ACT-1092",
+      "timestamp": "Today, 10:45 AM",
+      "ulpin": "IN29-0412-0018-7711",
+      "officer": "Tehsildar Rampur",
+      "action": "Surveyor Dispatched",
+      "details": "Assigned AI Alert #ALT-2026-0891 to RI K. Manjunath for lake buffer ground check."
+    },
+    {
+      "id": "ACT-1091",
+      "timestamp": "Today, 09:15 AM",
+      "ulpin": "IN29-0412-0014-9201",
+      "officer": "Gram Panchayat",
+      "action": "Tax Clearance Updated",
+      "details": "FY 2025-26 revenue cess receipt acknowledged for Rameshappa Gowda."
+    },
+    {
+      "id": "ACT-1090",
+      "timestamp": "Yesterday, 04:30 PM",
+      "ulpin": "IN29-0412-0014-9202",
+      "officer": "Revenue Inspector",
+      "action": "Field Verification Submitted",
+      "details": "Submitted on-site verification report for farm utility shed (Compliant with KLR Sec 95)."
+    },
+    {
+      "id": "ACT-1089",
+      "timestamp": "07-Feb-2026",
+      "ulpin": "IN29-0412-0016-4402",
+      "officer": "Sub-Registrar Rampur",
+      "action": "Encumbrance Updated",
+      "details": "CERSAI mortgage charge updated for SBI term loan."
+    },
+    {
+      "id": "ACT-1088",
+      "timestamp": "06-Feb-2026",
+      "ulpin": "IN29-0412-0021-8830",
+      "officer": "AI Change Detection System",
+      "action": "Possible Change Detected",
+      "details": "Automated run flagged canopy loss in agro-forestry sector."
+    }
+  ]
+}

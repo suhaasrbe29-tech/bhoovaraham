@@ -1,0 +1,55 @@
+[
+  {
+    "task_id": "TSK-2026-0041",
+    "ulpin": "IN29-0412-0018-7711",
+    "survey_number": "18/3",
+    "village": "Varaha Nagar",
+    "mandal": "Rampur",
+    "district": "Ballari",
+    "coordinates": "15.1395° N, 76.9280° E",
+    "ai_alert_id": "ALT-2026-0891",
+    "ai_finding": "Possible unauthorized structural footprint (approx 420 sq.m) detected within 30m lake buffer",
+    "confidence_score": 88,
+    "assigned_to": "K. Manjunath (Revenue Inspector #RI-402)",
+    "assigned_by": "Tehsildar Rampur",
+    "assigned_date": "04-Feb-2026",
+    "due_date": "12-Feb-2026",
+    "status": "Pending Inspection",
+    "urgency": "High",
+    "environmental_tag": "30m Lake Eco-Protection Buffer",
+    "baseline_ref": "January 2024 Baseline",
+    "current_ref": "January 2026 Satellite Tile",
+    "guidelines": [
+      "Verify exact boundary distance from lake High Flood Level (HFL).",
+      "Check if any temporary or permanent structure has been erected.",
+      "Capture at least 2 geo-tagged on-ground photographs facing North and East.",
+      "Check for local Gram Panchayat building sanction or NOC if claimed by occupant."
+    ]
+  },
+  {
+    "task_id": "TSK-2026-0038",
+    "ulpin": "IN29-0412-0021-8830",
+    "survey_number": "21/4",
+    "village": "Varaha Nagar",
+    "mandal": "Rampur",
+    "district": "Ballari",
+    "coordinates": "15.1350° N, 76.9275° E",
+    "ai_alert_id": "ALT-2026-0904",
+    "ai_finding": "Possible vegetation canopy variance & boundary fence realignment along eastern boundary",
+    "confidence_score": 76,
+    "assigned_to": "S. Nagaraj (Village Administrative Officer / Patwari #VAO-119)",
+    "assigned_by": "Tehsildar Rampur",
+    "assigned_date": "25-Jan-2026",
+    "due_date": "08-Feb-2026",
+    "status": "In Progress",
+    "urgency": "Medium",
+    "environmental_tag": "Forest Fringe Buffer Zone",
+    "baseline_ref": "March 2024 Baseline",
+    "current_ref": "February 2026 Satellite Tile",
+    "guidelines": [
+      "Carry electronic Total Station (ETS) or DGPS rover if boundary demarcation is disputed.",
+      "Check if tree felling occurred without Range Forest Officer permit.",
+      "Document current fencing alignment against Tippani / Cadastral map."
+    ]
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "ulpin": "IN29-0412-0014-9201",
+    "survey_number": "14/1A",
+    "sub_division": "1A",
+    "khata_number": "KT-4081",
+    "village": "Varaha Nagar",
+    "mandal": "Rampur",
+    "district": "Ballari",
+    "state": "Karnataka",
+    "area_acres": 2.45,
+    "area_sq_m": 9915,
+    "land_use": "Agricultural",
+    "current_crop": "Paddy (Wet Kharif)",
+    "market_valuation_inr": "₹ 44,10,000",
+    "guidance_value_inr": "₹ 18,00,000 / acre",
+    "zoning": {
+      "masterplan_zone": "Green Belt / Rural Agricultural Zone",
+      "permitted_uses": "Agriculture, Allied Agro-processing, Farmhouse up to 200 sq.m",
+      "max_fsi": 0.25,
+      "setback_front_m": 6.0,
+      "conversion_eligibility": "Requires DC approval under Sec 95 KLR Act"
+    },
+    "ror": {
+      "owners": [
+        {
+          "name": "Rameshappa Gowda",
+          "relation": "S/o Late Ningappa Gowda",
+          "share_percent": 100,
+          "aadhaar_hash": "XXXX-XXXX-8912 (Synthetic Hash)",
+          "extent_acres": 2.45
+        }
+      ],
+      "tenancy_type": "Katha / Self Cultivated",
+      "mutation_number": "MR-2021-0819",
+      "mutation_date": "14-Oct-2021",
+      "status": "Verified & Active",
+      "dispute_status": "Clear / No Litigation"
+    },
+    "registration": {
+      "registered_deed_no": "BLR-1-04981-2021",
+      "registration_date": "28-Sep-2021",
+      "sub_registrar_office": "SRO Rampur",
+      "deed_type": "Partition Deed",
+      "stamp_duty_paid": "₹ 24,500",
+      "status": "Registered & Digitized"
+    },
+    "building_permission": {
+      "has_permission": true,
+      "permit_number": "BP-AG-2022-019",
+      "sanction_date": "03-Mar-2022",
+      "approved_use": "Storage Godown for Agricultural Produce",
+      "approved_floors": "Ground Only (Plinth 180 sq.m)",
+      "validity_expiry": "02-Mar-2027",
+      "status": "Sanctioned & Compliant"
+    },
+    "encumbrance": {
+      "is_encumbered": false,
+      "status": "Non-Encumbered Certificate (NEC) Issued",
+      "last_search_period": "01-Apr-1990 to 01-Jan-2026",
+      "bank_name": "None",
+      "loan_amount": "₹ 0",
+      "charge_status": "Free of Liens"
+    },
+    "property_tax": {
+      "assessment_number": "TAX-VN-AG-0412",
+      "financial_year": "2025-26",
+      "annual_demand": "₹ 1,850",
+      "amount_paid": "₹ 1,850",
+      "receipt_number": "VN-RCT-98102",
+      "payment_date": "18-May-2025",
+      "status": "Paid & Fully Cleared"
+    },
+    "utilities": {
+      "electricity_connection": "GESCOM Ag Pump No. 418029 (Free Solar Ag Feeder)",
+      "water_source": "Borewell / Tungabhadra Canal Distributary D-4",
+      "sewerage_network": "On-site Soak Pit (Compliant)"
+    },
+    "environmental_restrictions": {
+      "is_sensitive": false,
+      "buffer_zone": "Standard Road Setback 6m",
+      "water_body_proximity": "320m from Varaha Lake (Clear of 30m Buffer)",
+      "forest_clearance_required": false,
+      "status": "Fully Compliant"
+    },
+    "ai_alert": {
+      "has_alert": false,
+      "alert_type": "None",
+      "confidence_score": 0.0,
+      "detected_date": "N/A",
+      "status": "Clear / No Variance Detected",
+      "principle_note": "AI continuous monitoring active. No spatial variance detected."
+    },
+    "audit_trail": [
+      {
+        "date": "14-Oct-2021",
+        "actor": "Tehsildar Rampur (Officer #KAS-198)",
+        "action": "MUTATION_APPROVED",
+        "description": "Partition deed certified in Jamabandi register under MR-2021-0819."
+      },
+      {
+        "date": "03-Mar-2022",
+        "actor": "Panchayat Development Officer (PDO)",
+        "action": "BUILDING_PERMIT_ISSUED",
+        "description": "Agricultural storage godown permit sanctioned."
+      },
+      {
+        "date": "18-May-2025",
+        "actor": "Citizen Portal",
+        "action": "TAX_RECEIPT_GENERATED",
+        "description": "Annual land revenue cess cleared via Bharat BillPay."
+      }
+    ]
+  },
+  {
+    "ulpin": "IN29-0412-0018-7711",
+    "survey_number": "18/3",
+    "sub_division": "3",
+    "khata_number": "KT-GOV-0012",
+    "village": "Varaha Nagar",
+    "mandal": "Rampur",
+    "district": "Ballari",
+    "state": "Karnataka",
+    "area_acres": 3.40,
+    "area_sq_m": 13760,
+    "land_use": "Water Body Buffer",
+    "current_crop": "Natural wetland / lake periphery",
+    "market_valuation_inr": "₹ 0 (Public Inalienable Asset)",
+    "guidance_value_inr": "Not for Sale / Government Asset",
+    "zoning": {
+      "masterplan_zone": "Eco-Conservation & Lake Protection Zone",
+      "permitted_uses": "Rainwater catchment, afforestation, ecological park",
+      "max_fsi": 0.0,
+      "setback_front_m": 30.0,
+      "conversion_eligibility": "Strictly Prohibited under Supreme Court & NGT Directives"
+    },
+    "ror": {
+      "owners": [
+        {
+          "name": "Revenue Department (Govt of Karnataka)",
+          "relation": "Custodian of Public Water Bodies",
+          "share_percent": 100,
+          "aadhaar_hash": "N/A (State Government)",
+          "extent_acres": 3.40
+        }
+      ],
+      "tenancy_type": "Government Sarkari Poramboke",
+      "mutation_number": "MR-HISTORIC-001",
+      "mutation_date": "01-Jan-1965",
+      "status": "State Custody Record",
+      "dispute_status": "AI Anomaly Flagged — Active Human Verification Workflow"
+    },
+    "registration": {
+      "registered_deed_no": "GOVT-GAZETTE-1965/VAR-04",
+      "registration_date": "01-Jan-1965",
+      "sub_registrar_office": "SRO Rampur",
+      "deed_type": "Government Gazette Notification",
+      "stamp_duty_paid": "Exempt",
+      "status": "Protected Record"
+    },
+    "building_permission": {
+      "has_permission": false,
+      "permit_number": "None",
+      "sanction_date": "N/A",
+      "approved_use": "Strictly No Construction Permitted",
+      "approved_floors": "None",
+      "validity_expiry": "N/A",
+      "status": "Zero Sanctions on Record"
+    },
+    "encumbrance": {
+      "is_encumbered": false,
+      "status": "Government Inalienable Property",
+      "last_search_period": "Historic to Present",
+      "bank_name": "None",
+      "loan_amount": "₹ 0",
+      "charge_status": "Non-transferable"
+    },
+    "property_tax": {
+      "assessment_number": "TAX-EXEMPT-GOV-001",
+      "financial_year": "2025-26",
+      "annual_demand": "₹ 0",
+      "amount_paid": "₹ 0",
+      "receipt_number": "N/A",
+      "payment_date": "N/A",
+      "status": "Government Property - Tax Exempt"
+    },
+    "utilities": {
+      "electricity_connection": "None authorized",
+      "water_source": "Natural Catchment Lake Bed",
+      "sewerage_network": "Prohibited discharge zone"
+    },
+    "environmental_restrictions": {
+      "is_sensitive": true,
+      "buffer_zone": "30m Mandatory Lake Buffer under KLR Sec 67 & NGT OA 125/2017",
+      "water_body_proximity": "Directly overlaps Lake Foreshore",
+      "forest_clearance_required": false,
+      "status": "CRITICAL: Possible Encroachment Detected by Satellite Multi-Spectral differencing"
+    },
+    "ai_alert": {
+      "has_alert": true,
+      "alert_id": "ALT-2026-0891",
+      "alert_type": "Possible change detected",
+      "detail": "Possible unauthorized structural footprint (approx 420 sq.m) detected within 30m lake buffer",
+      "confidence_score": 0.88,
+      "detected_date": "02-Feb-2026",
+      "status": "Assigned to Field Surveyor for Human Verification",
+      "principle_note": "AI Detects → Human Verifies → Authority Acts. AI result does not constitute legal proof of encroachment."
+    },
+    "audit_trail": [
+      {
+        "date": "02-Feb-2026",
+        "actor": "BHOOVARAHAM AI Satellite Engine",
+        "action": "POSSIBLE_CHANGE_DETECTED",
+        "description": "Satellite imagery comparison (T0 2024 vs T1 2026) flagged 420 sq.m structural footprint within 30m lake buffer (Confidence: 88%)."
+      },
+      {
+        "date": "04-Feb-2026",
+        "actor": "Tehsildar Rampur",
+        "action": "FIELD_VERIFICATION_DISPATCHED",
+        "description": "Task assigned to Revenue Inspector K. Manjunath for mandatory on-ground inspection with geo-tagged photographs."
+      }
+    ]
+  },
+  {
+    "ulpin": "IN29-0412-0016-4402",
+    "survey_number": "16/A",
+    "sub_division": "A",
+    "khata_number": "KT-1890",
+    "village": "Varaha Nagar",
+    "mandal": "Rampur",
+    "district": "Ballari",
+    "state": "Karnataka",
+    "area_acres": 1.15,
+    "area_sq_m": 4654,
+    "land_use": "Commercial",
+    "current_crop": "Non-Agricultural (Commercial Complex)",
+    "market_valuation_inr": "₹ 1,38,00,000",
+    "guidance_value_inr": "₹ 1,20,00,000 / acre",
+    "zoning": {
+      "masterplan_zone": "Commercial Ribbon / Highway Corridor",
+      "permitted_uses": "Retail shops, Warehousing, Offices, Automobile showroom",
+      "max_fsi": 1.75,
+      "setback_front_m": 12.0,
+      "conversion_eligibility": "Converted vide DC Order #ALN/CR/44/2019-20"
+    },
+    "ror": {
+      "owners": [
+        {
+          "name": "Varaha Agro Logistics LLP",
+          "relation": "Rep by Managing Partner Vikramaditya Rao",
+          "share_percent": 100,
+          "aadhaar_hash": "CIN: U01100KA2018PTC118921",
+          "extent_acres": 1.15
+        }
+      ],
+      "tenancy_type": "Freehold Commercial",
+      "mutation_number": "MR-2020-0312",
+      "mutation_date": "11-Nov-2020",
+      "status": "Verified & Active",
+      "dispute_status": "Clear / No Injunction"
+    },
+    "registration": {
+      "registered_deed_no": "BLR-1-08201-2020",
+      "registration_date": "29-Oct-2020",
+      "sub_registrar_office": "SRO Rampur",
+      "deed_type": "Sale Deed",
+      "stamp_duty_paid": "₹ 7,42,000",
+      "status": "Registered & Digitized"
+    },
+    "building_permission": {
+      "has_permission": true,
+      "permit_number": "BP-COM-2021-004",
+      "sanction_date": "15-Jan-2021",
+      "approved_use": "G+1 Commercial Warehousing and Retail",
+      "approved_floors": "G+1 (Total built-up 2,240 sq.m)",
+      "validity_expiry": "14-Jan-2026",
+      "status": "Sanctioned & Occupancy Certificate Issued"
+    },
+    "encumbrance": {
+      "is_encumbered": true,
+      "status": "Active Mortgage Registered with State Bank of India",
+      "last_search_period": "01-Apr-1990 to 01-Jan-2026",
+      "bank_name": "State Bank of India (Commercial Branch Ballari)",
+      "loan_amount": "₹ 75,00,000",
+      "charge_status": "Registered Mortgage by Deposit of Title Deeds (MODTD)"
+    },
+    "property_tax": {
+      "assessment_number": "TAX-VN-COM-0016",
+      "financial_year": "2025-26",
+      "annual_demand": "₹ 48,600",
+      "amount_paid": "₹ 48,600",
+      "receipt_number": "VN-COM-RCT-4190",
+      "payment_date": "10-Jul-2025",
+      "status": "Paid & Fully Cleared"
+    },
+    "utilities": {
+      "electricity_connection": "GESCOM HT Commercial Tariff LT-3 (100 KVA sanctioned)",
+      "water_source": "KUWSDB Piped Commercial Connection #0912",
+      "sewerage_network": "Connected to Municipal Drain with STP"
+    },
+    "environmental_restrictions": {
+      "is_sensitive": false,
+      "buffer_zone": "National Highway Corridor Setback 12m (Compliant)",
+      "water_body_proximity": "480m from lake (Clear)",
+      "forest_clearance_required": false,
+      "status": "Compliant with KSPCB Consent to Operate"
+    },
+    "ai_alert": {
+      "has_alert": false,
+      "alert_type": "None",
+      "confidence_score": 0.0,
+      "detected_date": "N/A",
+      "status": "Clear / Building footprint matches sanctioned plan",
+      "principle_note": "Building polygon matches approved municipal building permit #BP-COM-2021-004."
+    },
+    "audit_trail": [
+      {
+        "date": "11-Nov-2020",
+        "actor": "Sub-Registrar Rampur",
+        "action": "SALE_DEED_REGISTERED",
+        "description": "Sale deed executed in favor of Varaha Agro Logistics LLP."
+      },
+      {
+        "date": "20-Dec-2020",
+        "actor": "State Bank of India",
+        "action": "MORTGAGE_CREATED",
+        "description": "Lien registered on CERSAI portal for term loan ₹ 75,00,000."
+      },
+      {
+        "date": "15-Jan-2021",
+        "actor": "Town Planning Authority",
+        "action": "BUILDING_PERMIT_SANCTIONED",
+        "description": "G+1 Commercial plan approved after setback verification."
+      }
+    ]
+  },
+  {
+    "ulpin": "IN29-0412-0015-1033",
+    "survey_number": "15/2",
+    "sub_division": "2",
+    "khata_number": "KT-2291",
+    "village": "Varaha Nagar",
+    "mandal": "Rampur",
+    "district": "Ballari",
+    "state": "Karnataka",
+    "area_acres": 0.65,
+    "area_sq_m": 2630,
+    "land_use": "Residential",
+    "current_crop": "Non-Agricultural (Residential Layout)",
+    "market_valuation_inr": "₹ 52,60,000",
+    "guidance_value_inr": "₹ 80,00,000 / acre",
+    "zoning": {
+      "masterplan_zone": "Residential General (R-1)",
+      "permitted_uses": "Individual dwelling, duplex, small residential apartments up to G+3",
+      "max_fsi": 1.5,
+      "setback_front_m": 4.5,
+      "conversion_eligibility": "Converted vide Gramathana Extension Order"
+    },
+    "ror": {
+      "owners": [
+        {
+          "name": "Sunitha Devi",
+          "relation": "W/o M. K. Rao",
+          "share_percent": 50,
+          "aadhaar_hash": "XXXX-XXXX-3419",
+          "extent_acres": 0.325
+        },
+        {
+          "name": "M. K. Rao",
+          "relation": "S/o Late Krishna Rao",
+          "share_percent": 50,
+          "aadhaar_hash": "XXXX-XXXX-9901",
+          "extent_acres": 0.325
+        }
+      ],
+      "tenancy_type": "Joint Ownership Freehold",
+      "mutation_number": "MR-2022-0941",
+      "mutation_date": "19-Aug-2022",
+      "status": "Verified & Active",
+      "dispute_status": "Clear / No Disputes"
+    },
+    "registration": {
+      "registered_deed_no": "BLR-1-03112-2022",
+      "registration_date": "08-Aug-2022",
+      "sub_registrar_office": "SRO Rampur",
+      "deed_type": "Purchase Deed",
+      "stamp_duty_paid": "₹ 2,90,000",
+      "status": "Registered & Digitized"
+    },
+    "building_permission": {
+      "has_permission": false,
+      "permit_number": "Pending Application #APP-2026-041",
+      "sanction_date": "Under Review",
+      "approved_use": "Proposed G+1 Duplex Residence",
+      "approved_floors": "Proposed G+1",
+      "validity_expiry": "Pending Scrutiny",
+      "status": "Application Submitted to Gram Panchayat"
+    },
+    "encumbrance": {
+      "is_encumbered": false,
+      "status": "Non-Encumbered Certificate (NEC) Issued",
+      "last_search_period": "01-Apr-1990 to 01-Jan-2026",
+      "bank_name": "None",
+      "loan_amount": "₹ 0",
+      "charge_status": "Free of Liens"
+    },
+    "property_tax": {
+      "assessment_number": "TAX-VN-RES-0112",
+      "financial_year": "2025-26",
+      "annual_demand": "₹ 3,400",
+      "amount_paid": "₹ 3,400",
+      "receipt_number": "VN-RES-8819",
+      "payment_date": "04-Jun-2025",
+      "status": "Paid & Fully Cleared"
+    },
+    "utilities": {
+      "electricity_connection": "GESCOM Domestic Connection #19401",
+      "water_source": "Panchayat Jal Jeevan Mission piped water supply",
+      "sewerage_network": "Connected to Village Underground Drainage (UGD)"
+    },
+    "environmental_restrictions": {
+      "is_sensitive": false,
+      "buffer_zone": "Internal Village Road Setback 3m",
+      "water_body_proximity": "410m (Clear)",
+      "forest_clearance_required": false,
+      "status": "Compliant"
+    },
+    "ai_alert": {
+      "has_alert": false,
+      "alert_type": "None",
+      "confidence_score": 0.0,
+      "detected_date": "N/A",
+      "status": "Clear / Vacant Plotted Land",
+      "principle_note": "No active unauthorized construction detected."
+    },
+    "audit_trail": [
+      {
+        "date": "19-Aug-2022",
+        "actor": "Revenue Inspector Rampur",
+        "action": "MUTATION_CERTIFIED",
+        "description": "Joint ownership registered in E-Swathu portal."
+      },
+      {
+        "date": "15-Jan-2026",
+        "actor": "Citizen (Applicant)",
+        "action": "BUILDING_PERMIT_APPLICATION",
+        "description": "Online application filed for G+1 residential plan sanction."
+      }
+    ]
+  },
+  {
+    "ulpin": "IN29-0412-0021-8830",
+    "survey_number": "21/4",
+    "sub_division": "4",
+    "khata_number": "KT-5109",
+    "village": "Varaha Nagar",
+    "mandal": "Rampur",
+    "district": "Ballari",
+    "state": "Karnataka",
+    "area_acres": 2.10,
+    "area_sq_m": 8498,
+    "land_use": "Agro-Forestry",
+    "current_crop": "Teak & Tamarind Plantation",
+    "market_valuation_inr": "₹ 31,50,000",
+    "guidance_value_inr": "₹ 15,00,000 / acre",
+    "zoning": {
+      "masterplan_zone": "Agro-Forestry Conservation Zone",
+      "permitted_uses": "Tree plantation, silviculture, organic nursery",
+      "max_fsi": 0.1,
+      "setback_front_m": 6.0,
+      "conversion_eligibility": "Tree Preservation Act Applies"
+    },
+    "ror": {
+      "owners": [
+        {
+          "name": "Devappa Nayak",
+          "relation": "S/o Late Hanumappa Nayak",
+          "share_percent": 100,
+          "aadhaar_hash": "XXXX-XXXX-6612",
+          "extent_acres": 2.10
+        }
+      ],
+      "tenancy_type": "Inam / Ryotwari Patta",
+      "mutation_number": "MR-2019-0118",
+      "mutation_date": "22-May-2019",
+      "status": "Verified & Active",
+      "dispute_status": "Clear"
+    },
+    "registration": {
+      "registered_deed_no": "BLR-1-01990-2019",
+      "registration_date": "10-May-2019",
+      "sub_registrar_office": "SRO Rampur",
+      "deed_type": "Succession Certificate Deed",
+      "stamp_duty_paid": "₹ 15,000",
+      "status": "Registered & Digitized"
+    },
+    "building_permission": {
+      "has_permission": false,
+      "permit_number": "None",
+      "sanction_date": "N/A",
+      "approved_use": "Non-constructible Agro-Forestry",
+      "approved_floors": "None",
+      "validity_expiry": "N/A",
+      "status": "No Permits Sanctioned"
+    },
+    "encumbrance": {
+      "is_encumbered": false,
+      "status": "Clean (No Mortgage)",
+      "last_search_period": "01-Apr-1990 to 01-Jan-2026",
+      "bank_name": "None",
+      "loan_amount": "₹ 0",
+      "charge_status": "Free of Liens"
+    },
+    "property_tax": {
+      "assessment_number": "TAX-VN-AF-0021",
+      "financial_year": "2025-26",
+      "annual_demand": "₹ 1,200",
+      "amount_paid": "₹ 1,200",
+      "receipt_number": "VN-AF-RCT-110",
+      "payment_date": "29-Apr-2025",
+      "status": "Paid & Fully Cleared"
+    },
+    "utilities": {
+      "electricity_connection": "None required",
+      "water_source": "Rainfed / Drip irrigation from borewell",
+      "sewerage_network": "N/A"
+    },
+    "environmental_restrictions": {
+      "is_sensitive": true,
+      "buffer_zone": "Adjoins Reserve Forest Fringe",
+      "water_body_proximity": "350m",
+      "forest_clearance_required": true,
+      "status": "Forest Fringe Advisory Applicable"
+    },
+    "ai_alert": {
+      "has_alert": true,
+      "alert_id": "ALT-2026-0904",
+      "alert_type": "Possible change detected",
+      "detail": "Vegetation canopy loss & boundary fence realignment detected over 0.28 acres",
+      "confidence_score": 0.76,
+      "detected_date": "18-Jan-2026",
+      "status": "Pending Field Verification",
+      "principle_note": "AI Detects → Human Verifies → Authority Acts. AI flag indicates optical change only."
+    },
+    "audit_trail": [
+      {
+        "date": "18-Jan-2026",
+        "actor": "BHOOVARAHAM AI Satellite Engine",
+        "action": "POSSIBLE_CHANGE_DETECTED",
+        "description": "NDVI vegetative index variance detected along eastern parcel boundary."
+      },
+      {
+        "date": "25-Jan-2026",
+        "actor": "Range Forest Officer & Tehsildar",
+        "action": "JOINT_INSPECTION_SCHEDULED",
+        "description": "Joint boundary verification notice scheduled."
+      }
+    ]
+  },
+  {
+    "ulpin": "IN29-0412-0019-2045",
+    "survey_number": "19/1",
+    "sub_division": "1",
+    "khata_number": "KT-PUB-0005",
+    "village": "Varaha Nagar",
+    "mandal": "Rampur",
+    "district": "Ballari",
+    "state": "Karnataka",
+    "area_acres": 0.85,
+    "area_sq_m": 3439,
+    "land_use": "Government / Public",
+    "current_crop": "Gram Panchayat Office & Primary Health Centre",
+    "market_valuation_inr": "₹ 68,00,000",
+    "guidance_value_inr": "Public Infrastructure",
+    "zoning": {
+      "masterplan_zone": "Public & Semi-Public Civic Amenity",
+      "permitted_uses": "Hospital, Panchayat Secretariat, Village Library",
+      "max_fsi": 1.25,
+      "setback_front_m": 7.5,
+      "conversion_eligibility": "Civic Amenity Asset"
+    },
+    "ror": {
+      "owners": [
+        {
+          "name": "Gram Panchayat Varaha Nagar",
+          "relation": "Rural Development & Panchayat Raj Dept",
+          "share_percent": 100,
+          "aadhaar_hash": "GP-RDPR-KA-0941",
+          "extent_acres": 0.85
+        }
+      ],
+      "tenancy_type": "Public Civic Amenity",
+      "mutation_number": "MR-1998-0045",
+      "mutation_date": "12-Aug-1998",
+      "status": "Verified & Active",
+      "dispute_status": "Clear"
+    },
+    "registration": {
+      "registered_deed_no": "GOVT-TRANSFER-1998/08",
+      "registration_date": "10-Aug-1998",
+      "sub_registrar_office": "SRO Rampur",
+      "deed_type": "Government Land Grant Order",
+      "stamp_duty_paid": "Exempt",
+      "status": "Public Record"
+    },
+    "building_permission": {
+      "has_permission": true,
+      "permit_number": "PWD-KA-2018-091",
+      "sanction_date": "14-Feb-2018",
+      "approved_use": "Health Sub-Centre & Village Administrative Secretariat",
+      "approved_floors": "G+1 (Built-up 980 sq.m)",
+      "validity_expiry": "Permanent Civic Infrastructure",
+      "status": "Government Sanctioned & Operational"
+    },
+    "encumbrance": {
+      "is_encumbered": false,
+      "status": "Public Civic Property",
+      "last_search_period": "Historic to Present",
+      "bank_name": "None",
+      "loan_amount": "₹ 0",
+      "charge_status": "Non-alienable"
+    },
+    "property_tax": {
+      "assessment_number": "TAX-EXEMPT-GP-001",
+      "financial_year": "2025-26",
+      "annual_demand": "₹ 0",
+      "amount_paid": "₹ 0",
+      "receipt_number": "N/A",
+      "payment_date": "N/A",
+      "status": "Tax Exempt (Local Government Asset)"
+    },
+    "utilities": {
+      "electricity_connection": "GESCOM Public LT-5 Connection #018244",
+      "water_source": "KUWSDB Dedicated High-pressure line with RO Plant",
+      "sewerage_network": "Connected to Panchayat Septic System"
+    },
+    "environmental_restrictions": {
+      "is_sensitive": false,
+      "buffer_zone": "Standard Civic Buffer 5m",
+      "water_body_proximity": "390m (Clear)",
+      "forest_clearance_required": false,
+      "status": "Compliant"
+    },
+    "ai_alert": {
+      "has_alert": false,
+      "alert_type": "None",
+      "confidence_score": 0.0,
+      "detected_date": "N/A",
+      "status": "Clear / Building matches sanctioned government blueprint",
+      "principle_note": "Continuous spatial monitoring active."
+    },
+    "audit_trail": [
+      {
+        "date": "14-Feb-2018",
+        "actor": "Executive Engineer PWD Ballari",
+        "action": "GOVERNMENT_SANCTION",
+        "description": "Administrative sanction granted for Primary Health Centre building."
+      }
+    ]
+  },
+  {
+    "ulpin": "IN29-0412-0014-9202",
+    "survey_number": "14/1B",
+    "sub_division": "1B",
+    "khata_number": "KT-4082",
+    "village": "Varaha Nagar",
+    "mandal": "Rampur",
+    "district": "Ballari",
+    "state": "Karnataka",
+    "area_acres": 1.80,
+    "area_sq_m": 7284,
+    "land_use": "Agricultural",
+    "current_crop": "Dry Land / Cotton (Bt Cotton)",
+    "market_valuation_inr": "₹ 32,40,000",
+    "guidance_value_inr": "₹ 18,00,000 / acre",
+    "zoning": {
+      "masterplan_zone": "Green Belt / Rural Agricultural Zone",
+      "permitted_uses": "Agriculture, Farm implement sheds, Agro-processing",
+      "max_fsi": 0.25,
+      "setback_front_m": 6.0,
+      "conversion_eligibility": "Agricultural Land"
+    },
+    "ror": {
+      "owners": [
+        {
+          "name": "Basavaraj Patil",
+          "relation": "S/o Late Sharanappa Patil",
+          "share_percent": 100,
+          "aadhaar_hash": "XXXX-XXXX-4421 (Synthetic Hash)",
+          "extent_acres": 1.80
+        }
+      ],
+      "tenancy_type": "Katha / Self Cultivated",
+      "mutation_number": "MR-2018-0412",
+      "mutation_date": "10-Aug-2018",
+      "status": "Verified & Active",
+      "dispute_status": "Clear / No Disputes"
+    },
+    "registration": {
+      "registered_deed_no": "BLR-1-02290-2018",
+      "registration_date": "14-Jun-2018",
+      "sub_registrar_office": "SRO Rampur",
+      "deed_type": "Sale Deed",
+      "stamp_duty_paid": "₹ 18,200",
+      "status": "Registered & Digitized"
+    },
+    "building_permission": {
+      "has_permission": true,
+      "permit_number": "BP-AG-2025-044",
+      "sanction_date": "08-Jan-2026",
+      "approved_use": "Agricultural Farm Implement Shed",
+      "approved_floors": "Ground Only (Tin Roof 85 sq.m)",
+      "validity_expiry": "07-Jan-2031",
+      "status": "Sanctioned Post-Inspection"
+    },
+    "encumbrance": {
+      "is_encumbered": true,
+      "status": "Agri Crop Loan Registered with Canara Bank",
+      "last_search_period": "01-Apr-1990 to 01-Jan-2026",
+      "bank_name": "Canara Bank (Rampur Branch)",
+      "loan_amount": "₹ 4,50,000",
+      "charge_status": "Charge Registered on Bhoomi Portal"
+    },
+    "property_tax": {
+      "assessment_number": "TAX-VN-AG-0413",
+      "financial_year": "2025-26",
+      "annual_demand": "₹ 1,400",
+      "amount_paid": "₹ 1,400",
+      "receipt_number": "VN-RCT-98155",
+      "payment_date": "22-May-2025",
+      "status": "Paid & Fully Cleared"
+    },
+    "utilities": {
+      "electricity_connection": "GESCOM Ag IP Set Connection #418102",
+      "water_source": "Borewell (450 ft)",
+      "sewerage_network": "Natural Drainage"
+    },
+    "environmental_restrictions": {
+      "is_sensitive": false,
+      "buffer_zone": "Standard Village Road Setback 6m",
+      "water_body_proximity": "310m from lake (Clear)",
+      "forest_clearance_required": false,
+      "status": "Compliant"
+    },
+    "ai_alert": {
+      "has_alert": true,
+      "alert_id": "ALT-2026-0742",
+      "alert_type": "Possible change detected",
+      "detail": "Possible farm utility shed addition outside sanctioned agricultural blueprint",
+      "confidence_score": 0.64,
+      "detected_date": "05-Jan-2026",
+      "status": "Field Inspection Completed (Permitted Agri Shed)",
+      "principle_note": "AI Detects → Human Verifies → Authority Acts. Inspector confirmed permissible agricultural implement shed."
+    },
+    "audit_trail": [
+      {
+        "date": "10-Aug-2018",
+        "actor": "Revenue Inspector Rampur",
+        "action": "MUTATION_CERTIFIED",
+        "description": "Katha transferred to Basavaraj Patil vide MR-2018-0412."
+      },
+      {
+        "date": "12-Feb-2022",
+        "actor": "Canara Bank",
+        "action": "HYPOTHECATION_REGISTERED",
+        "description": "Crop loan charge created on RTC for ₹ 4,50,000."
+      },
+      {
+        "date": "05-Jan-2026",
+        "actor": "BHOOVARAHAM AI Satellite Engine",
+        "action": "POSSIBLE_CHANGE_DETECTED",
+        "description": "Optical change flagged shed footprint of 85 sq.m."
+      },
+      {
+        "date": "08-Jan-2026",
+        "actor": "Revenue Inspector Rampur",
+        "action": "FIELD_VERIFICATION_RESOLVED",
+        "description": "On-site check confirmed legitimate agricultural implement storage shed; sanctioned under KLR Sec 95."
+      }
+    ]
+  },
+  {
+    "ulpin": "IN29-0412-0020-5519",
+    "survey_number": "20/2B",
+    "sub_division": "2B",
+    "khata_number": "KT-3199",
+    "village": "Varaha Nagar",
+    "mandal": "Rampur",
+    "district": "Ballari",
+    "state": "Karnataka",
+    "area_acres": 0.42,
+    "area_sq_m": 1700,
+    "land_use": "Residential",
+    "current_crop": "Non-Agricultural (G+2 Residential Dwelling)",
+    "market_valuation_inr": "₹ 75,60,000",
+    "guidance_value_inr": "₹ 90,00,000 / acre",
+    "zoning": {
+      "masterplan_zone": "Residential General (R-1)",
+      "permitted_uses": "Individual dwelling, apartments up to G+3",
+      "max_fsi": 1.75,
+      "setback_front_m": 4.5,
+      "conversion_eligibility": "Converted vide Order #ALN/CR/19/2023"
+    },
+    "ror": {
+      "owners": [
+        {
+          "name": "Farhan Ahmed",
+          "relation": "S/o Abdul Sattar",
+          "share_percent": 50,
+          "aadhaar_hash": "XXXX-XXXX-7714",
+          "extent_acres": 0.21
+        },
+        {
+          "name": "Parveen Begum",
+          "relation": "W/o Farhan Ahmed",
+          "share_percent": 50,
+          "aadhaar_hash": "XXXX-XXXX-9022",
+          "extent_acres": 0.21
+        }
+      ],
+      "tenancy_type": "Joint Ownership Freehold",
+      "mutation_number": "MR-2024-0012",
+      "mutation_date": "15-Jan-2024",
+      "status": "Verified & Active",
+      "dispute_status": "Clear / No Injunction"
+    },
+    "registration": {
+      "registered_deed_no": "BLR-1-05510-2023",
+      "registration_date": "12-Dec-2023",
+      "sub_registrar_office": "SRO Rampur",
+      "deed_type": "Sale Deed",
+      "stamp_duty_paid": "₹ 4,20,000",
+      "status": "Registered & Digitized"
+    },
+    "building_permission": {
+      "has_permission": true,
+      "permit_number": "BP-RES-2024-008",
+      "sanction_date": "15-Feb-2024",
+      "approved_use": "G+2 Residential Building",
+      "approved_floors": "G+2 (Total built-up 480 sq.m)",
+      "validity_expiry": "14-Feb-2029",
+      "status": "Sanctioned & Under Construction (Compliant)"
+    },
+    "encumbrance": {
+      "is_encumbered": true,
+      "status": "Home Loan Mortgage with HDFC Bank",
+      "last_search_period": "01-Apr-1990 to 01-Jan-2026",
+      "bank_name": "HDFC Bank (Retail Assets Branch Ballari)",
+      "loan_amount": "₹ 38,00,000",
+      "charge_status": "CERSAI Security Interest Registered (#20001948210)"
+    },
+    "property_tax": {
+      "assessment_number": "TAX-VN-RES-0419",
+      "financial_year": "2025-26",
+      "annual_demand": "₹ 6,800",
+      "amount_paid": "₹ 6,800",
+      "receipt_number": "VN-RES-RCT-1049",
+      "payment_date": "14-May-2025",
+      "status": "Paid & Fully Cleared"
+    },
+    "utilities": {
+      "electricity_connection": "GESCOM Domestic 3-Phase Meter #881902",
+      "water_source": "JJM Piped Water Connection #2041",
+      "sewerage_network": "Connected to Underground Drainage (UGD)"
+    },
+    "environmental_restrictions": {
+      "is_sensitive": false,
+      "buffer_zone": "Internal Road Setback 3m (Compliant)",
+      "water_body_proximity": "460m from lake (Clear)",
+      "forest_clearance_required": false,
+      "status": "Compliant"
+    },
+    "ai_alert": {
+      "has_alert": false,
+      "alert_type": "None",
+      "confidence_score": 0.0,
+      "detected_date": "N/A",
+      "status": "Clear / Construction matches municipal sanction",
+      "principle_note": "Building polygon matches approved permit #BP-RES-2024-008."
+    },
+    "audit_trail": [
+      {
+        "date": "12-Dec-2023",
+        "actor": "Sub-Registrar Rampur",
+        "action": "SALE_DEED_REGISTERED",
+        "description": "Joint sale deed registered for Farhan Ahmed & Parveen Begum."
+      },
+      {
+        "date": "15-Feb-2024",
+        "actor": "Town Planning Authority",
+        "action": "BUILDING_PLAN_SANCTIONED",
+        "description": "G+2 building blueprint approved with verified setbacks."
+      },
+      {
+        "date": "01-Mar-2024",
+        "actor": "HDFC Bank",
+        "action": "MORTGAGE_CREATED",
+        "description": "Equitable mortgage registered for ₹ 38,00,000."
+      }
+    ]
+  }
+]
