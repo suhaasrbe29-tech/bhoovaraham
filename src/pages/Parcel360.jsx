@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate, Link } from 'react-router-dom';
-import parcelsData from '../data/parcels.json';
+import { useData } from '../context/DataContext';
 import courtCasesData from '../data/courtCases.json';
 import { estimateCourtResolution } from '../utils/courtEstimator';
 import Badge from '../components/Badge';
@@ -38,6 +38,7 @@ import {
 export default function Parcel360() {
   const { ulpin } = useParams();
   const navigate = useNavigate();
+  const { parcels: parcelsData } = useData();
 
   // Find parcel by ULPIN from URL parameter, or fallback to first parcel
   const currentParcel = parcelsData.find(p => p.ulpin === ulpin) || parcelsData[1] || parcelsData[0];
@@ -118,6 +119,12 @@ export default function Parcel360() {
               </option>
             ))}
           </select>
+          <Link
+            to={`/citizen/transfer?ulpin=${currentParcel.ulpin}`}
+            className="px-3 py-1.5 bg-emerald-600 hover:bg-emerald-700 text-white rounded text-xs font-semibold shadow-sm flex items-center gap-1 transition-colors"
+          >
+            <span>Apply Transfer</span>
+          </Link>
           <button
             onClick={() => window.print()}
             className="p-1.5 rounded border border-slate-300 text-slate-600 hover:bg-slate-100 text-xs hidden sm:flex items-center gap-1"

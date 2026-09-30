@@ -1,0 +1,157 @@
+[
+  {
+    "officialId": "OFF-0001",
+    "name": "Dr. K. R. Sharma, IAS",
+    "email": "kr.sharma@landrecords.gov.in",
+    "department": "Department of Land Resources & Revenue",
+    "designation": "Principal Secretary / State Land Commissioner",
+    "office": "State Secretariat, Bangalore",
+    "district": "All Districts",
+    "mandal": "Statewide",
+    "role": "SUPER_ADMIN",
+    "permissions": [
+      "MANAGE_OFFICIALS",
+      "ASSIGN_ROLES",
+      "VIEW_SYSTEM_AUDIT",
+      "SYSTEM_CONFIG",
+      "VIEW_ALL_RECORDS",
+      "OVERRIDE_LOCKS"
+    ],
+    "isActive": true,
+    "createdAt": "2024-01-15T09:00:00Z",
+    "lastLogin": "2026-02-10T08:30:00Z",
+    "loginHistory": [
+      { "timestamp": "2026-02-10T08:30:00Z", "ip": "10.24.110.12", "device": "Gov Secure Terminal (NIC VPN)" },
+      { "timestamp": "2026-02-08T14:15:00Z", "ip": "10.24.110.12", "device": "Gov Secure Terminal (NIC VPN)" }
+    ]
+  },
+  {
+    "officialId": "SRO-TS-001",
+    "username": "SRO_HYD_001",
+    "password": "12345678",
+    "temporaryPassword": "12345678",
+    "name": "Ramesh Kumar",
+    "email": "ramesh.kumar@sro.gov.in",
+    "department": "Registration & Stamps Department",
+    "designation": "Sub-Registrar",
+    "office": "Hyderabad Sub-Registrar Office",
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "mandal": "Charminar",
+    "jurisdiction": "Hyderabad Central Sub-District",
+    "role": "SUB_REGISTRAR",
+    "permissions": [
+      "VIEW_APPLICATIONS",
+      "VERIFY_DOCUMENTS",
+      "PROCESS_TRANSFERS",
+      "APPROVE_TRANSFERS",
+      "REJECT_TRANSFERS",
+      "REQUEST_CLARIFICATION",
+      "VIEW_PARCEL_RECORDS"
+    ],
+    "isActive": true,
+    "createdAt": "2026-02-01T10:00:00Z",
+    "lastLogin": "2026-02-10T09:12:00Z",
+    "loginHistory": [
+      { "timestamp": "2026-02-10T09:12:00Z", "ip": "10.28.45.88", "device": "SRO Terminal HYD #01" }
+    ]
+  },
+  {
+    "officialId": "OFF-1024",
+    "name": "Smt. Sunitha Rao, KAS",
+    "email": "sunitha.rao@sro.gov.in",
+    "department": "Registration & Stamps Department",
+    "designation": "Senior Sub-Registrar",
+    "office": "Sub-Registrar Office, Rampur",
+    "district": "Ballari",
+    "mandal": "Rampur",
+    "role": "SUB_REGISTRAR",
+    "permissions": [
+      "VIEW_APPLICATIONS",
+      "VERIFY_DOCUMENTS",
+      "PROCESS_TRANSFERS",
+      "APPROVE_TRANSFERS",
+      "REJECT_TRANSFERS",
+      "REQUEST_CLARIFICATION",
+      "VIEW_PARCEL_RECORDS"
+    ],
+    "isActive": true,
+    "createdAt": "2024-03-20T10:00:00Z",
+    "lastLogin": "2026-02-10T09:12:00Z",
+    "loginHistory": [
+      { "timestamp": "2026-02-10T09:12:00Z", "ip": "10.28.45.88", "device": "SRO Desktop Rampur #02" },
+      { "timestamp": "2026-02-09T11:05:00Z", "ip": "10.28.45.88", "device": "SRO Desktop Rampur #02" }
+    ]
+  },
+  {
+    "officialId": "OFF-1088",
+    "name": "Sri. H. M. Patil",
+    "email": "hm.patil@revenue.gov.in",
+    "department": "Revenue Department",
+    "designation": "Tehsildar & Taluk Executive Magistrate",
+    "office": "Taluk Office, Rampur",
+    "district": "Ballari",
+    "mandal": "Rampur",
+    "role": "REVENUE_OFFICER",
+    "permissions": [
+      "VIEW_APPLICATIONS",
+      "APPROVE_MUTATIONS",
+      "DISPATCH_SURVEYOR",
+      "ADJUDICATE_DISPUTES",
+      "ISSUE_NOTICES",
+      "VIEW_PARCEL_RECORDS"
+    ],
+    "isActive": true,
+    "createdAt": "2024-02-10T11:30:00Z",
+    "lastLogin": "2026-02-09T16:45:00Z",
+    "loginHistory": [
+      { "timestamp": "2026-02-09T16:45:00Z", "ip": "10.28.45.10", "device": "Taluk Tehsildar Console" }
+    ]
+  },
+  {
+    "officialId": "OFF-2041",
+    "name": "Sri. K. Manjunath",
+    "email": "k.manjunath@survey.gov.in",
+    "department": "Survey, Settlement & Land Records",
+    "designation": "Senior Field Surveyor / Revenue Inspector",
+    "office": "Circle Survey Office, Varaha Nagar",
+    "district": "Ballari",
+    "mandal": "Rampur",
+    "role": "FIELD_SURVEYOR",
+    "permissions": [
+      "VIEW_ASSIGNED_TASKS",
+      "SUBMIT_FIELD_EVIDENCE",
+      "UPLOAD_GEO_PHOTOS",
+      "UPDATE_VERIFICATION_STATUS"
+    ],
+    "isActive": true,
+    "createdAt": "2024-05-12T08:00:00Z",
+    "lastLogin": "2026-02-10T07:45:00Z",
+    "loginHistory": [
+      { "timestamp": "2026-02-10T07:45:00Z", "ip": "172.16.89.44", "device": "Gov Field Tablet - Trimble DGPS" }
+    ]
+  },
+  {
+    "officialId": "OFF-4099",
+    "name": "Ms. V. Jayalakshmi",
+    "email": "v.jayalakshmi@cag.gov.in",
+    "department": "Internal Audit & Vigilance Directorate",
+    "designation": "Senior Land Records Auditor",
+    "office": "Regional Audit Cell, Ballari",
+    "district": "Ballari",
+    "mandal": "All Mandals",
+    "role": "AUDITOR",
+    "permissions": [
+      "VIEW_ALL_RECORDS",
+      "VIEW_SYSTEM_AUDIT",
+      "EXPORT_AUDIT_LOGS",
+      "FLAG_IRREGULARITIES"
+    ],
+    "isActive": true,
+    "createdAt": "2024-08-01T12:00:00Z",
+    "lastLogin": "2026-02-07T14:20:00Z",
+    "loginHistory": [
+      { "timestamp": "2026-02-07T14:20:00Z", "ip": "10.24.99.14", "device": "Audit Terminal #04" }
+    ]
+  }
+]

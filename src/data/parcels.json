@@ -18,7 +18,7 @@
       "masterplan_zone": "Green Belt / Rural Agricultural Zone",
       "permitted_uses": "Agriculture, Allied Agro-processing, Farmhouse up to 200 sq.m",
       "max_fsi": 0.25,
-      "setback_front_m": 6.0,
+      "setback_front_m": 6,
       "conversion_eligibility": "Requires DC approval under Sec 95 KLR Act"
     },
     "ror": {
@@ -86,7 +86,7 @@
     "ai_alert": {
       "has_alert": false,
       "alert_type": "None",
-      "confidence_score": 0.0,
+      "confidence_score": 0,
       "detected_date": "N/A",
       "status": "Clear / No Variance Detected",
       "principle_note": "AI continuous monitoring active. No spatial variance detected."
@@ -121,7 +121,7 @@
     "mandal": "Rampur",
     "district": "Ballari",
     "state": "Karnataka",
-    "area_acres": 3.40,
+    "area_acres": 3.4,
     "area_sq_m": 13760,
     "land_use": "Water Body Buffer",
     "current_crop": "Natural wetland / lake periphery",
@@ -130,8 +130,8 @@
     "zoning": {
       "masterplan_zone": "Eco-Conservation & Lake Protection Zone",
       "permitted_uses": "Rainwater catchment, afforestation, ecological park",
-      "max_fsi": 0.0,
-      "setback_front_m": 30.0,
+      "max_fsi": 0,
+      "setback_front_m": 30,
       "conversion_eligibility": "Strictly Prohibited under Supreme Court & NGT Directives"
     },
     "ror": {
@@ -141,7 +141,7 @@
           "relation": "Custodian of Public Water Bodies",
           "share_percent": 100,
           "aadhaar_hash": "N/A (State Government)",
-          "extent_acres": 3.40
+          "extent_acres": 3.4
         }
       ],
       "tenancy_type": "Government Sarkari Poramboke",
@@ -240,7 +240,7 @@
       "masterplan_zone": "Commercial Ribbon / Highway Corridor",
       "permitted_uses": "Retail shops, Warehousing, Offices, Automobile showroom",
       "max_fsi": 1.75,
-      "setback_front_m": 12.0,
+      "setback_front_m": 12,
       "conversion_eligibility": "Converted vide DC Order #ALN/CR/44/2019-20"
     },
     "ror": {
@@ -308,7 +308,7 @@
     "ai_alert": {
       "has_alert": false,
       "alert_type": "None",
-      "confidence_score": 0.0,
+      "confidence_score": 0,
       "detected_date": "N/A",
       "status": "Clear / Building footprint matches sanctioned plan",
       "principle_note": "Building polygon matches approved municipal building permit #BP-COM-2021-004."
@@ -428,7 +428,7 @@
     "ai_alert": {
       "has_alert": false,
       "alert_type": "None",
-      "confidence_score": 0.0,
+      "confidence_score": 0,
       "detected_date": "N/A",
       "status": "Clear / Vacant Plotted Land",
       "principle_note": "No active unauthorized construction detected."
@@ -457,7 +457,7 @@
     "mandal": "Rampur",
     "district": "Ballari",
     "state": "Karnataka",
-    "area_acres": 2.10,
+    "area_acres": 2.1,
     "area_sq_m": 8498,
     "land_use": "Agro-Forestry",
     "current_crop": "Teak & Tamarind Plantation",
@@ -467,7 +467,7 @@
       "masterplan_zone": "Agro-Forestry Conservation Zone",
       "permitted_uses": "Tree plantation, silviculture, organic nursery",
       "max_fsi": 0.1,
-      "setback_front_m": 6.0,
+      "setback_front_m": 6,
       "conversion_eligibility": "Tree Preservation Act Applies"
     },
     "ror": {
@@ -477,7 +477,7 @@
           "relation": "S/o Late Hanumappa Nayak",
           "share_percent": 100,
           "aadhaar_hash": "XXXX-XXXX-6612",
-          "extent_acres": 2.10
+          "extent_acres": 2.1
         }
       ],
       "tenancy_type": "Inam / Ryotwari Patta",
@@ -644,7 +644,7 @@
     "ai_alert": {
       "has_alert": false,
       "alert_type": "None",
-      "confidence_score": 0.0,
+      "confidence_score": 0,
       "detected_date": "N/A",
       "status": "Clear / Building matches sanctioned government blueprint",
       "principle_note": "Continuous spatial monitoring active."
@@ -667,7 +667,7 @@
     "mandal": "Rampur",
     "district": "Ballari",
     "state": "Karnataka",
-    "area_acres": 1.80,
+    "area_acres": 1.8,
     "area_sq_m": 7284,
     "land_use": "Agricultural",
     "current_crop": "Dry Land / Cotton (Bt Cotton)",
@@ -677,7 +677,7 @@
       "masterplan_zone": "Green Belt / Rural Agricultural Zone",
       "permitted_uses": "Agriculture, Farm implement sheds, Agro-processing",
       "max_fsi": 0.25,
-      "setback_front_m": 6.0,
+      "setback_front_m": 6,
       "conversion_eligibility": "Agricultural Land"
     },
     "ror": {
@@ -687,7 +687,7 @@
           "relation": "S/o Late Sharanappa Patil",
           "share_percent": 100,
           "aadhaar_hash": "XXXX-XXXX-4421 (Synthetic Hash)",
-          "extent_acres": 1.80
+          "extent_acres": 1.8
         }
       ],
       "tenancy_type": "Katha / Self Cultivated",
@@ -873,7 +873,7 @@
     "ai_alert": {
       "has_alert": false,
       "alert_type": "None",
-      "confidence_score": 0.0,
+      "confidence_score": 0,
       "detected_date": "N/A",
       "status": "Clear / Construction matches municipal sanction",
       "principle_note": "Building polygon matches approved permit #BP-RES-2024-008."
@@ -896,6 +896,1169 @@
         "actor": "HDFC Bank",
         "action": "MORTGAGE_CREATED",
         "description": "Equitable mortgage registered for ₹ 38,00,000."
+      }
+    ]
+  },
+  {
+    "ulpin": "IN36-5840-0072-0012",
+    "survey_number": "72/12",
+    "sub_division": "Plot 12",
+    "khata_number": "KT-HMT-0012",
+    "village": "Nacharam",
+    "mandal": "Uppal",
+    "district": "Medchal-Malkajgiri",
+    "state": "Telangana",
+    "area_acres": 0.062,
+    "area_sq_m": 251,
+    "land_use": "Residential",
+    "current_crop": "Independent Villa (G+2)",
+    "market_valuation_inr": "₹ 1,85,00,000",
+    "guidance_value_inr": "₹ 48,000 / sq.yd",
+    "encroachment_status": "NON-ENCROACHED",
+    "case_study": "Non-Encroached Residential Colony Case: HMT Nagar Colony, Nacharam",
+    "zoning": {
+      "masterplan_zone": "HMDA / GHMC Residential Plotted Zone (R-1)",
+      "permitted_uses": "Single Family Detached Dwelling, Duplex Villa, G+2 Floor Residential",
+      "max_fsi": 1.75,
+      "setback_front_m": 3,
+      "conversion_eligibility": "Approved Layout (HUDA Layout Permit LP No. 42/1982)"
+    },
+    "ror": {
+      "owners": [
+        {
+          "name": "K. Venkata Ramana Rao & K. Anuradha",
+          "relation": "Joint Spousal Ownership",
+          "share_percent": 100,
+          "aadhaar_hash": "XXXX-XXXX-3341 (Masked)",
+          "extent_acres": 0.062
+        }
+      ],
+      "tenancy_type": "Freehold Residential",
+      "mutation_number": "DHR-2018-9941",
+      "mutation_date": "18-Aug-2018",
+      "status": "Verified & Active",
+      "dispute_status": "Clear / No Litigation"
+    },
+    "registration": {
+      "registered_deed_no": "UPP-1-03912-2018",
+      "registration_date": "10-Aug-2018",
+      "sub_registrar_office": "SRO Uppal",
+      "deed_type": "Absolute Sale Deed",
+      "stamp_duty_paid": "₹ 9,25,000",
+      "status": "Registered & Digitized"
+    },
+    "building_permission": {
+      "has_permission": true,
+      "permit_number": "GHMC-TP-2019-0418",
+      "sanction_date": "14-Feb-2019",
+      "approved_use": "Residential Independent Villa",
+      "approved_floors": "G+2 (Height: 9.8m)",
+      "validity_expiry": "Permanent (Occupancy Certificate Issued)",
+      "status": "Occupancy Certificate (OC) Issued"
+    },
+    "encumbrance": {
+      "is_encumbered": false,
+      "status": "Non-Encumbered Certificate (NEC) Issued (Clean Title)",
+      "last_search_period": "01-Jan-1983 to 01-Jan-2026",
+      "bank_name": "None",
+      "loan_amount": "₹ 0",
+      "charge_status": "Free of Liens"
+    },
+    "property_tax": {
+      "assessment_number": "PTIN-1080209411",
+      "financial_year": "2025-26",
+      "annual_demand": "₹ 14,800",
+      "amount_paid": "₹ 14,800",
+      "receipt_number": "GHMC-TX-2025-88190",
+      "payment_date": "04-Apr-2025",
+      "status": "Paid & Fully Cleared"
+    },
+    "utilities": {
+      "electricity_connection": "TSSPDCL USC #104928172 (LT-1 Domestic)",
+      "water_source": "HMWSSB CAN #082914101 (Municipal Piped Supply)",
+      "sewerage_network": "HMWSSB Underground Drainage (Connected)"
+    },
+    "environmental_restrictions": {
+      "is_sensitive": false,
+      "buffer_zone": "Standard Frontage Setback 3m (Compliant)",
+      "water_body_proximity": "1.4 km from Pedda Cheruvu (Clear of any buffer)",
+      "forest_clearance_required": false,
+      "status": "Fully Compliant"
+    },
+    "ai_alert": {
+      "has_alert": false,
+      "alert_type": "None",
+      "confidence_score": 0,
+      "detected_date": "N/A",
+      "status": "Clear / Verified Non-Encroached",
+      "principle_note": "Colony boundaries and structural footprint match GHMC layout approval. 0% boundary variance."
+    },
+    "audit_trail": [
+      {
+        "date": "10-Aug-2018",
+        "actor": "Sub-Registrar Uppal",
+        "action": "SALE_DEED_REGISTERED",
+        "description": "Absolute sale deed registered under doc UPP-1-03912-2018."
+      },
+      {
+        "date": "18-Aug-2018",
+        "actor": "Tahsildar Uppal",
+        "action": "DHARANI_MUTATION_COMPLETED",
+        "description": "Record of rights updated in revenue register under DHR-2018-9941."
+      },
+      {
+        "date": "14-Feb-2019",
+        "actor": "GHMC Town Planning",
+        "action": "BUILDING_SANCTION_APPROVED",
+        "description": "G+2 blueprint approved under GHMC-TP-2019-0418."
+      },
+      {
+        "date": "12-Nov-2020",
+        "actor": "GHMC Engineering",
+        "action": "OCCUPANCY_CERTIFICATE_ISSUED",
+        "description": "Final inspection completed with 100% setback compliance."
+      }
+    ]
+  },
+  {
+    "ulpin": "IN36-5840-0072-0014",
+    "survey_number": "72/14",
+    "sub_division": "Plot 14",
+    "khata_number": "KT-HMT-0014",
+    "village": "Nacharam",
+    "mandal": "Uppal",
+    "district": "Medchal-Malkajgiri",
+    "state": "Telangana",
+    "area_acres": 0.055,
+    "area_sq_m": 223,
+    "land_use": "Residential",
+    "current_crop": "Duplex Residence (G+1)",
+    "market_valuation_inr": "₹ 1,52,00,000",
+    "guidance_value_inr": "₹ 48,000 / sq.yd",
+    "encroachment_status": "NON-ENCROACHED",
+    "case_study": "Non-Encroached Residential Colony Case: HMT Nagar Colony, Nacharam",
+    "zoning": {
+      "masterplan_zone": "HMDA / GHMC Residential Plotted Zone (R-1)",
+      "permitted_uses": "Single Family Residential, Duplex, G+1 Residential Villa",
+      "max_fsi": 1.5,
+      "setback_front_m": 3,
+      "conversion_eligibility": "Approved Layout (HUDA Layout Permit LP No. 42/1982)"
+    },
+    "ror": {
+      "owners": [
+        {
+          "name": "Dr. P. Ramesh Babu",
+          "relation": "S/o P. Satyanarayana",
+          "share_percent": 100,
+          "aadhaar_hash": "XXXX-XXXX-7128 (Masked)",
+          "extent_acres": 0.055
+        }
+      ],
+      "tenancy_type": "Freehold Residential",
+      "mutation_number": "DHR-2016-4102",
+      "mutation_date": "05-Jun-2016",
+      "status": "Verified & Active",
+      "dispute_status": "Clear / No Litigation"
+    },
+    "registration": {
+      "registered_deed_no": "UPP-1-02194-2016",
+      "registration_date": "22-May-2016",
+      "sub_registrar_office": "SRO Uppal",
+      "deed_type": "Absolute Sale Deed",
+      "stamp_duty_paid": "₹ 7,60,000",
+      "status": "Registered & Digitized"
+    },
+    "building_permission": {
+      "has_permission": true,
+      "permit_number": "GHMC-TP-2017-0891",
+      "sanction_date": "18-Jan-2017",
+      "approved_use": "Residential Duplex",
+      "approved_floors": "G+1 (Height: 6.5m)",
+      "validity_expiry": "Permanent (OC Issued)",
+      "status": "Occupancy Certificate (OC) Issued"
+    },
+    "encumbrance": {
+      "is_encumbered": false,
+      "status": "Non-Encumbered Certificate (NEC) Issued (Clean Title)",
+      "last_search_period": "01-Jan-1983 to 01-Jan-2026",
+      "bank_name": "None",
+      "loan_amount": "₹ 0",
+      "charge_status": "Free of Liens"
+    },
+    "property_tax": {
+      "assessment_number": "PTIN-1080209412",
+      "financial_year": "2025-26",
+      "annual_demand": "₹ 11,200",
+      "amount_paid": "₹ 11,200",
+      "receipt_number": "GHMC-TX-2025-88191",
+      "payment_date": "09-Apr-2025",
+      "status": "Paid & Fully Cleared"
+    },
+    "utilities": {
+      "electricity_connection": "TSSPDCL USC #104928173 (LT-1 Domestic)",
+      "water_source": "HMWSSB CAN #082914102 (Municipal Piped Supply)",
+      "sewerage_network": "HMWSSB Underground Drainage (Connected)"
+    },
+    "environmental_restrictions": {
+      "is_sensitive": false,
+      "buffer_zone": "Standard Frontage Setback 3m (Compliant)",
+      "water_body_proximity": "1.4 km from Pedda Cheruvu",
+      "forest_clearance_required": false,
+      "status": "Fully Compliant"
+    },
+    "ai_alert": {
+      "has_alert": false,
+      "alert_type": "None",
+      "confidence_score": 0,
+      "detected_date": "N/A",
+      "status": "Clear / Verified Non-Encroached",
+      "principle_note": "Colony boundaries and structural footprint match GHMC layout approval."
+    },
+    "audit_trail": [
+      {
+        "date": "22-May-2016",
+        "actor": "Sub-Registrar Uppal",
+        "action": "SALE_DEED_REGISTERED",
+        "description": "Deed registered under doc UPP-1-02194-2016."
+      },
+      {
+        "date": "05-Jun-2016",
+        "actor": "Tahsildar Uppal",
+        "action": "MUTATION_RECORDED",
+        "description": "Mutation recorded under DHR-2016-4102."
+      }
+    ]
+  },
+  {
+    "ulpin": "IN36-5840-0072-0025",
+    "survey_number": "72/25",
+    "sub_division": "Plot 25",
+    "khata_number": "KT-HMT-0025",
+    "village": "Nacharam",
+    "mandal": "Uppal",
+    "district": "Medchal-Malkajgiri",
+    "state": "Telangana",
+    "area_acres": 0.072,
+    "area_sq_m": 293,
+    "land_use": "Residential",
+    "current_crop": "Modern Villa (G+2)",
+    "market_valuation_inr": "₹ 2,15,00,000",
+    "guidance_value_inr": "₹ 48,000 / sq.yd",
+    "encroachment_status": "NON-ENCROACHED",
+    "case_study": "Non-Encroached Residential Colony Case: HMT Nagar Colony, Nacharam",
+    "zoning": {
+      "masterplan_zone": "HMDA / GHMC Residential Plotted Zone (R-1)",
+      "permitted_uses": "Detached Villa, G+2 Floor Residential",
+      "max_fsi": 1.75,
+      "setback_front_m": 3,
+      "conversion_eligibility": "Approved Layout (HUDA Layout Permit LP No. 42/1982)"
+    },
+    "ror": {
+      "owners": [
+        {
+          "name": "Smt. S. Lakshmi & S. Muralidhar",
+          "relation": "Joint Ownership",
+          "share_percent": 100,
+          "aadhaar_hash": "XXXX-XXXX-8924 (Masked)",
+          "extent_acres": 0.072
+        }
+      ],
+      "tenancy_type": "Freehold Residential",
+      "mutation_number": "DHR-2020-1192",
+      "mutation_date": "14-Oct-2020",
+      "status": "Verified & Active",
+      "dispute_status": "Clear / No Litigation"
+    },
+    "registration": {
+      "registered_deed_no": "UPP-1-05510-2020",
+      "registration_date": "29-Sep-2020",
+      "sub_registrar_office": "SRO Uppal",
+      "deed_type": "Absolute Sale Deed",
+      "stamp_duty_paid": "₹ 10,75,000",
+      "status": "Registered & Digitized"
+    },
+    "building_permission": {
+      "has_permission": true,
+      "permit_number": "GHMC-TP-2021-0322",
+      "sanction_date": "12-Jan-2021",
+      "approved_use": "Modern Residential Villa",
+      "approved_floors": "G+2 (Height: 9.8m)",
+      "validity_expiry": "Permanent (OC Issued)",
+      "status": "Occupancy Certificate (OC) Issued"
+    },
+    "encumbrance": {
+      "is_encumbered": false,
+      "status": "Non-Encumbered Certificate (NEC) Issued (Clean Title)",
+      "last_search_period": "01-Jan-1983 to 01-Jan-2026",
+      "bank_name": "None",
+      "loan_amount": "₹ 0",
+      "charge_status": "Free of Liens"
+    },
+    "property_tax": {
+      "assessment_number": "PTIN-1080209413",
+      "financial_year": "2025-26",
+      "annual_demand": "₹ 16,500",
+      "amount_paid": "₹ 16,500",
+      "receipt_number": "GHMC-TX-2025-88192",
+      "payment_date": "12-Apr-2025",
+      "status": "Paid & Fully Cleared"
+    },
+    "utilities": {
+      "electricity_connection": "TSSPDCL USC #104928174 (LT-1 Domestic)",
+      "water_source": "HMWSSB CAN #082914103 (Municipal Piped Supply)",
+      "sewerage_network": "HMWSSB Underground Drainage (Connected)"
+    },
+    "environmental_restrictions": {
+      "is_sensitive": false,
+      "buffer_zone": "Standard Frontage Setback 3m (Compliant)",
+      "water_body_proximity": "1.4 km from Pedda Cheruvu",
+      "forest_clearance_required": false,
+      "status": "Fully Compliant"
+    },
+    "ai_alert": {
+      "has_alert": false,
+      "alert_type": "None",
+      "confidence_score": 0,
+      "detected_date": "N/A",
+      "status": "Clear / Verified Non-Encroached",
+      "principle_note": "Colony boundaries and structural footprint match GHMC layout approval."
+    },
+    "audit_trail": [
+      {
+        "date": "29-Sep-2020",
+        "actor": "Sub-Registrar Uppal",
+        "action": "SALE_DEED_REGISTERED",
+        "description": "Deed registered under doc UPP-1-05510-2020."
+      }
+    ]
+  },
+  {
+    "ulpin": "IN36-5840-0072-0042",
+    "survey_number": "72/42",
+    "sub_division": "Plot 42",
+    "khata_number": "KT-HMT-0042",
+    "village": "Nacharam",
+    "mandal": "Uppal",
+    "district": "Medchal-Malkajgiri",
+    "state": "Telangana",
+    "area_acres": 0.049,
+    "area_sq_m": 201,
+    "land_use": "Residential",
+    "current_crop": "G+1 Residence",
+    "market_valuation_inr": "₹ 1,38,00,000",
+    "guidance_value_inr": "₹ 48,000 / sq.yd",
+    "encroachment_status": "NON-ENCROACHED",
+    "case_study": "Non-Encroached Residential Colony Case: HMT Nagar Colony, Nacharam",
+    "zoning": {
+      "masterplan_zone": "HMDA / GHMC Residential Plotted Zone (R-1)",
+      "permitted_uses": "Single Family Residential Villa",
+      "max_fsi": 1.5,
+      "setback_front_m": 3,
+      "conversion_eligibility": "Approved Layout"
+    },
+    "ror": {
+      "owners": [
+        {
+          "name": "Capt. V. Sudhakar Reddy (Retd.)",
+          "relation": "S/o Late V. Narayana Reddy",
+          "share_percent": 100,
+          "aadhaar_hash": "XXXX-XXXX-4519 (Masked)",
+          "extent_acres": 0.049
+        }
+      ],
+      "tenancy_type": "Freehold Residential",
+      "mutation_number": "DHR-2015-8821",
+      "mutation_date": "19-Nov-2015",
+      "status": "Verified & Active",
+      "dispute_status": "Clear / No Litigation"
+    },
+    "registration": {
+      "registered_deed_no": "UPP-1-01824-2015",
+      "registration_date": "08-Nov-2015",
+      "sub_registrar_office": "SRO Uppal",
+      "deed_type": "Absolute Sale Deed",
+      "stamp_duty_paid": "₹ 6,90,000",
+      "status": "Registered & Digitized"
+    },
+    "building_permission": {
+      "has_permission": true,
+      "permit_number": "GHMC-TP-2016-0199",
+      "sanction_date": "04-Mar-2016",
+      "approved_use": "Residential Villa",
+      "approved_floors": "G+1 (Height: 6.5m)",
+      "validity_expiry": "Permanent (OC Issued)",
+      "status": "Occupancy Certificate (OC) Issued"
+    },
+    "encumbrance": {
+      "is_encumbered": false,
+      "status": "Non-Encumbered Certificate (NEC) Issued (Clean Title)",
+      "last_search_period": "01-Jan-1983 to 01-Jan-2026",
+      "bank_name": "None",
+      "loan_amount": "₹ 0",
+      "charge_status": "Free of Liens"
+    },
+    "property_tax": {
+      "assessment_number": "PTIN-1080209414",
+      "financial_year": "2025-26",
+      "annual_demand": "₹ 10,800",
+      "amount_paid": "₹ 10,800",
+      "receipt_number": "GHMC-TX-2025-88193",
+      "payment_date": "08-Apr-2025",
+      "status": "Paid & Fully Cleared"
+    },
+    "utilities": {
+      "electricity_connection": "TSSPDCL USC #104928175 (LT-1 Domestic)",
+      "water_source": "HMWSSB CAN #082914104 (Municipal Piped Supply)",
+      "sewerage_network": "HMWSSB Underground Drainage (Connected)"
+    },
+    "environmental_restrictions": {
+      "is_sensitive": false,
+      "buffer_zone": "Standard Frontage Setback 3m (Compliant)",
+      "water_body_proximity": "1.4 km from Pedda Cheruvu",
+      "forest_clearance_required": false,
+      "status": "Fully Compliant"
+    },
+    "ai_alert": {
+      "has_alert": false,
+      "alert_type": "None",
+      "confidence_score": 0,
+      "detected_date": "N/A",
+      "status": "Clear / Verified Non-Encroached",
+      "principle_note": "Colony boundaries and structural footprint match GHMC layout approval."
+    },
+    "audit_trail": [
+      {
+        "date": "08-Nov-2015",
+        "actor": "Sub-Registrar Uppal",
+        "action": "SALE_DEED_REGISTERED",
+        "description": "Deed registered under doc UPP-1-01824-2015."
+      }
+    ]
+  },
+  {
+    "ulpin": "IN36-5840-0072-0058",
+    "survey_number": "72/58",
+    "sub_division": "Plot 58",
+    "khata_number": "KT-HMT-0058",
+    "village": "Nacharam",
+    "mandal": "Uppal",
+    "district": "Medchal-Malkajgiri",
+    "state": "Telangana",
+    "area_acres": 0.082,
+    "area_sq_m": 334,
+    "land_use": "Residential",
+    "current_crop": "Residence (G+2)",
+    "market_valuation_inr": "₹ 2,40,00,000",
+    "guidance_value_inr": "₹ 48,000 / sq.yd",
+    "encroachment_status": "NON-ENCROACHED",
+    "case_study": "Non-Encroached Residential Colony Case: HMT Nagar Colony, Nacharam",
+    "zoning": {
+      "masterplan_zone": "HMDA / GHMC Residential Plotted Zone (R-1)",
+      "permitted_uses": "G+2 Residential Residence",
+      "max_fsi": 1.75,
+      "setback_front_m": 3,
+      "conversion_eligibility": "Approved Layout"
+    },
+    "ror": {
+      "owners": [
+        {
+          "name": "T. Satyanarayana & Sons",
+          "relation": "Family Coparcenary",
+          "share_percent": 100,
+          "aadhaar_hash": "XXXX-XXXX-6612 (Masked)",
+          "extent_acres": 0.082
+        }
+      ],
+      "tenancy_type": "Freehold Residential",
+      "mutation_number": "DHR-2014-3310",
+      "mutation_date": "10-Feb-2014",
+      "status": "Verified & Active",
+      "dispute_status": "Clear / No Litigation"
+    },
+    "registration": {
+      "registered_deed_no": "UPP-1-00812-2014",
+      "registration_date": "24-Jan-2014",
+      "sub_registrar_office": "SRO Uppal",
+      "deed_type": "Partition & Release Deed",
+      "stamp_duty_paid": "₹ 4,80,000",
+      "status": "Registered & Digitized"
+    },
+    "building_permission": {
+      "has_permission": true,
+      "permit_number": "GHMC-TP-2015-0811",
+      "sanction_date": "19-Jun-2015",
+      "approved_use": "Residential Building",
+      "approved_floors": "G+2 (Height: 9.8m)",
+      "validity_expiry": "Permanent (OC Issued)",
+      "status": "Occupancy Certificate (OC) Issued"
+    },
+    "encumbrance": {
+      "is_encumbered": true,
+      "status": "SBI Housing Loan (Standard Charge Registered)",
+      "last_search_period": "01-Jan-1983 to 01-Jan-2026",
+      "bank_name": "State Bank of India (Nacharam Branch)",
+      "loan_amount": "₹ 45,00,000",
+      "charge_status": "Equitable Mortgage (Active & Servicing)"
+    },
+    "property_tax": {
+      "assessment_number": "PTIN-1080209415",
+      "financial_year": "2025-26",
+      "annual_demand": "₹ 18,200",
+      "amount_paid": "₹ 18,200",
+      "receipt_number": "GHMC-TX-2025-88194",
+      "payment_date": "15-Apr-2025",
+      "status": "Paid & Fully Cleared"
+    },
+    "utilities": {
+      "electricity_connection": "TSSPDCL USC #104928176 (LT-1 Domestic)",
+      "water_source": "HMWSSB CAN #082914105 (Municipal Piped Supply)",
+      "sewerage_network": "HMWSSB Underground Drainage (Connected)"
+    },
+    "environmental_restrictions": {
+      "is_sensitive": false,
+      "buffer_zone": "Standard Frontage Setback 3m (Compliant)",
+      "water_body_proximity": "1.4 km from Pedda Cheruvu",
+      "forest_clearance_required": false,
+      "status": "Fully Compliant"
+    },
+    "ai_alert": {
+      "has_alert": false,
+      "alert_type": "None",
+      "confidence_score": 0,
+      "detected_date": "N/A",
+      "status": "Clear / Verified Non-Encroached",
+      "principle_note": "Colony boundaries and structural footprint match GHMC layout approval."
+    },
+    "audit_trail": [
+      {
+        "date": "24-Jan-2014",
+        "actor": "Sub-Registrar Uppal",
+        "action": "PARTITION_DEED_REGISTERED",
+        "description": "Partition deed registered under doc UPP-1-00812-2014."
+      }
+    ]
+  },
+  {
+    "ulpin": "IN36-5840-0072-0064",
+    "survey_number": "72/64",
+    "sub_division": "Plot 64",
+    "khata_number": "KT-HMT-0064",
+    "village": "Nacharam",
+    "mandal": "Uppal",
+    "district": "Medchal-Malkajgiri",
+    "state": "Telangana",
+    "area_acres": 0.051,
+    "area_sq_m": 209,
+    "land_use": "Residential",
+    "current_crop": "Residence (G+1)",
+    "market_valuation_inr": "₹ 1,42,00,000",
+    "guidance_value_inr": "₹ 48,000 / sq.yd",
+    "encroachment_status": "NON-ENCROACHED",
+    "case_study": "Non-Encroached Residential Colony Case: HMT Nagar Colony, Nacharam",
+    "zoning": {
+      "masterplan_zone": "HMDA / GHMC Residential Plotted Zone (R-1)",
+      "permitted_uses": "G+1 Residential Residence",
+      "max_fsi": 1.5,
+      "setback_front_m": 3,
+      "conversion_eligibility": "Approved Layout"
+    },
+    "ror": {
+      "owners": [
+        {
+          "name": "G. Krishna Murthy",
+          "relation": "S/o Late G. Ramarao",
+          "share_percent": 100,
+          "aadhaar_hash": "XXXX-XXXX-9921 (Masked)",
+          "extent_acres": 0.051
+        }
+      ],
+      "tenancy_type": "Freehold Residential",
+      "mutation_number": "DHR-2012-1982",
+      "mutation_date": "28-Aug-2012",
+      "status": "Verified & Active",
+      "dispute_status": "Clear / No Litigation"
+    },
+    "registration": {
+      "registered_deed_no": "UPP-1-01290-2012",
+      "registration_date": "14-Aug-2012",
+      "sub_registrar_office": "SRO Uppal",
+      "deed_type": "Absolute Sale Deed",
+      "stamp_duty_paid": "₹ 5,80,000",
+      "status": "Registered & Digitized"
+    },
+    "building_permission": {
+      "has_permission": true,
+      "permit_number": "GHMC-TP-2013-0512",
+      "sanction_date": "21-Jan-2013",
+      "approved_use": "Residential Villa",
+      "approved_floors": "G+1 (Height: 6.5m)",
+      "validity_expiry": "Permanent (OC Issued)",
+      "status": "Occupancy Certificate (OC) Issued"
+    },
+    "encumbrance": {
+      "is_encumbered": false,
+      "status": "Non-Encumbered Certificate (NEC) Issued (Clean Title)",
+      "last_search_period": "01-Jan-1983 to 01-Jan-2026",
+      "bank_name": "None",
+      "loan_amount": "₹ 0",
+      "charge_status": "Free of Liens"
+    },
+    "property_tax": {
+      "assessment_number": "PTIN-1080209416",
+      "financial_year": "2025-26",
+      "annual_demand": "₹ 11,400",
+      "amount_paid": "₹ 11,400",
+      "receipt_number": "GHMC-TX-2025-88195",
+      "payment_date": "10-Apr-2025",
+      "status": "Paid & Fully Cleared"
+    },
+    "utilities": {
+      "electricity_connection": "TSSPDCL USC #104928177 (LT-1 Domestic)",
+      "water_source": "HMWSSB CAN #082914106 (Municipal Piped Supply)",
+      "sewerage_network": "HMWSSB Underground Drainage (Connected)"
+    },
+    "environmental_restrictions": {
+      "is_sensitive": false,
+      "buffer_zone": "Standard Frontage Setback 3m (Compliant)",
+      "water_body_proximity": "1.4 km from Pedda Cheruvu",
+      "forest_clearance_required": false,
+      "status": "Fully Compliant"
+    },
+    "ai_alert": {
+      "has_alert": false,
+      "alert_type": "None",
+      "confidence_score": 0,
+      "detected_date": "N/A",
+      "status": "Clear / Verified Non-Encroached",
+      "principle_note": "Colony boundaries and structural footprint match GHMC layout approval."
+    },
+    "audit_trail": [
+      {
+        "date": "14-Aug-2012",
+        "actor": "Sub-Registrar Uppal",
+        "action": "SALE_DEED_REGISTERED",
+        "description": "Deed registered under doc UPP-1-01290-2012."
+      }
+    ]
+  },
+  {
+    "ulpin": "IN36-5840-0072-0078",
+    "survey_number": "72/78",
+    "sub_division": "Plot 78",
+    "khata_number": "KT-HMT-0078",
+    "village": "Nacharam",
+    "mandal": "Uppal",
+    "district": "Medchal-Malkajgiri",
+    "state": "Telangana",
+    "area_acres": 0.062,
+    "area_sq_m": 251,
+    "land_use": "Residential",
+    "current_crop": "Vacant Plotted Site (Geo-Fenced)",
+    "market_valuation_inr": "₹ 1,44,00,000",
+    "guidance_value_inr": "₹ 48,000 / sq.yd",
+    "encroachment_status": "NON-ENCROACHED",
+    "case_study": "Non-Encroached Residential Colony Case: HMT Nagar Colony, Nacharam",
+    "zoning": {
+      "masterplan_zone": "HMDA / GHMC Residential Plotted Zone (R-1)",
+      "permitted_uses": "Residential Plotted Site (Vacant)",
+      "max_fsi": 1.75,
+      "setback_front_m": 3,
+      "conversion_eligibility": "Approved Layout"
+    },
+    "ror": {
+      "owners": [
+        {
+          "name": "M. V. Subba Rao",
+          "relation": "S/o Late M. Koteswara Rao",
+          "share_percent": 100,
+          "aadhaar_hash": "XXXX-XXXX-1102 (Masked)",
+          "extent_acres": 0.062
+        }
+      ],
+      "tenancy_type": "Freehold Residential Site",
+      "mutation_number": "DHR-2019-7412",
+      "mutation_date": "11-Nov-2019",
+      "status": "Verified & Active",
+      "dispute_status": "Clear / No Litigation"
+    },
+    "registration": {
+      "registered_deed_no": "UPP-1-04812-2019",
+      "registration_date": "25-Oct-2019",
+      "sub_registrar_office": "SRO Uppal",
+      "deed_type": "Absolute Sale Deed",
+      "stamp_duty_paid": "₹ 7,20,000",
+      "status": "Registered & Digitized"
+    },
+    "building_permission": {
+      "has_permission": false,
+      "permit_number": "N/A",
+      "sanction_date": "N/A",
+      "approved_use": "Vacant Plotted Site",
+      "approved_floors": "G+0 (Vacant)",
+      "validity_expiry": "N/A",
+      "status": "Eligible for Instant Online TS-bPASS Permission"
+    },
+    "encumbrance": {
+      "is_encumbered": false,
+      "status": "Non-Encumbered Certificate (NEC) Issued (Clean Title)",
+      "last_search_period": "01-Jan-1983 to 01-Jan-2026",
+      "bank_name": "None",
+      "loan_amount": "₹ 0",
+      "charge_status": "Free of Liens"
+    },
+    "property_tax": {
+      "assessment_number": "PTIN-1080209417",
+      "financial_year": "2025-26",
+      "annual_demand": "₹ 4,200",
+      "amount_paid": "₹ 4,200",
+      "receipt_number": "GHMC-TX-2025-88196",
+      "payment_date": "02-Apr-2025",
+      "status": "Paid & Fully Cleared (Vacant Land Tax - VLT)"
+    },
+    "utilities": {
+      "electricity_connection": "Meter Point Available on Colony Road",
+      "water_source": "HMWSSB Branch Line Connection Available",
+      "sewerage_network": "Colony Sewer Main Available"
+    },
+    "environmental_restrictions": {
+      "is_sensitive": false,
+      "buffer_zone": "Standard Setback",
+      "water_body_proximity": "1.4 km from Pedda Cheruvu",
+      "forest_clearance_required": false,
+      "status": "Fully Compliant"
+    },
+    "ai_alert": {
+      "has_alert": false,
+      "alert_type": "None",
+      "confidence_score": 0,
+      "detected_date": "N/A",
+      "status": "Clear / Verified Non-Encroached",
+      "principle_note": "Fenced vacant parcel with no unauthorized temporary structures detected."
+    },
+    "audit_trail": [
+      {
+        "date": "25-Oct-2019",
+        "actor": "Sub-Registrar Uppal",
+        "action": "SALE_DEED_REGISTERED",
+        "description": "Deed registered under doc UPP-1-04812-2019."
+      }
+    ]
+  },
+  {
+    "ulpin": "IN36-5840-0073-0102",
+    "survey_number": "73/102",
+    "sub_division": "Plot 102",
+    "khata_number": "KT-HMT-0102",
+    "village": "Nacharam",
+    "mandal": "Uppal",
+    "district": "Medchal-Malkajgiri",
+    "state": "Telangana",
+    "area_acres": 0.066,
+    "area_sq_m": 268,
+    "land_use": "Residential",
+    "current_crop": "Residence (G+2)",
+    "market_valuation_inr": "₹ 1,98,00,000",
+    "guidance_value_inr": "₹ 48,000 / sq.yd",
+    "encroachment_status": "NON-ENCROACHED",
+    "case_study": "Non-Encroached Residential Colony Case: HMT Nagar Colony, Nacharam",
+    "zoning": {
+      "masterplan_zone": "HMDA / GHMC Residential Plotted Zone (R-1)",
+      "permitted_uses": "G+2 Residential Residence",
+      "max_fsi": 1.75,
+      "setback_front_m": 3,
+      "conversion_eligibility": "Approved Layout"
+    },
+    "ror": {
+      "owners": [
+        {
+          "name": "Smt. B. Nirmala Kumari",
+          "relation": "W/o B. Janardhan Rao",
+          "share_percent": 100,
+          "aadhaar_hash": "XXXX-XXXX-5528 (Masked)",
+          "extent_acres": 0.066
+        }
+      ],
+      "tenancy_type": "Freehold Residential",
+      "mutation_number": "DHR-2017-9104",
+      "mutation_date": "02-Dec-2017",
+      "status": "Verified & Active",
+      "dispute_status": "Clear / No Litigation"
+    },
+    "registration": {
+      "registered_deed_no": "UPP-1-03410-2017",
+      "registration_date": "18-Nov-2017",
+      "sub_registrar_office": "SRO Uppal",
+      "deed_type": "Absolute Sale Deed",
+      "stamp_duty_paid": "₹ 9,90,000",
+      "status": "Registered & Digitized"
+    },
+    "building_permission": {
+      "has_permission": true,
+      "permit_number": "GHMC-TP-2018-0912",
+      "sanction_date": "24-May-2018",
+      "approved_use": "Residential Building",
+      "approved_floors": "G+2 (Height: 9.8m)",
+      "validity_expiry": "Permanent (OC Issued)",
+      "status": "Occupancy Certificate (OC) Issued"
+    },
+    "encumbrance": {
+      "is_encumbered": false,
+      "status": "Non-Encumbered Certificate (NEC) Issued (Clean Title)",
+      "last_search_period": "01-Jan-1983 to 01-Jan-2026",
+      "bank_name": "None",
+      "loan_amount": "₹ 0",
+      "charge_status": "Free of Liens"
+    },
+    "property_tax": {
+      "assessment_number": "PTIN-1080209418",
+      "financial_year": "2025-26",
+      "annual_demand": "₹ 15,400",
+      "amount_paid": "₹ 15,400",
+      "receipt_number": "GHMC-TX-2025-88197",
+      "payment_date": "06-Apr-2025",
+      "status": "Paid & Fully Cleared"
+    },
+    "utilities": {
+      "electricity_connection": "TSSPDCL USC #104928178 (LT-1 Domestic)",
+      "water_source": "HMWSSB CAN #082914107 (Municipal Piped Supply)",
+      "sewerage_network": "HMWSSB Underground Drainage (Connected)"
+    },
+    "environmental_restrictions": {
+      "is_sensitive": false,
+      "buffer_zone": "Standard Setback",
+      "water_body_proximity": "1.4 km from Pedda Cheruvu",
+      "forest_clearance_required": false,
+      "status": "Fully Compliant"
+    },
+    "ai_alert": {
+      "has_alert": false,
+      "alert_type": "None",
+      "confidence_score": 0,
+      "detected_date": "N/A",
+      "status": "Clear / Verified Non-Encroached",
+      "principle_note": "Colony boundaries and structural footprint match GHMC layout approval."
+    },
+    "audit_trail": [
+      {
+        "date": "18-Nov-2017",
+        "actor": "Sub-Registrar Uppal",
+        "action": "SALE_DEED_REGISTERED",
+        "description": "Deed registered under doc UPP-1-03410-2017."
+      }
+    ]
+  },
+  {
+    "ulpin": "IN36-5840-0071-0115",
+    "survey_number": "71/115",
+    "sub_division": "Plot 115",
+    "khata_number": "KT-HMT-0115",
+    "village": "Nacharam",
+    "mandal": "Uppal",
+    "district": "Medchal-Malkajgiri",
+    "state": "Telangana",
+    "area_acres": 0.093,
+    "area_sq_m": 376,
+    "land_use": "Commercial",
+    "current_crop": "Retail Complex & Residence (G+2)",
+    "market_valuation_inr": "₹ 3,25,00,000",
+    "guidance_value_inr": "₹ 65,000 / sq.yd",
+    "encroachment_status": "NON-ENCROACHED",
+    "case_study": "Non-Encroached Residential Colony Case: HMT Nagar Colony, Nacharam",
+    "zoning": {
+      "masterplan_zone": "HMDA / GHMC Mixed Commercial-Residential Corridor",
+      "permitted_uses": "Ground Floor Convenience Retail / Supermarket + Upper Residential Floors",
+      "max_fsi": 2,
+      "setback_front_m": 4.5,
+      "conversion_eligibility": "Approved Commercial Corner Plot"
+    },
+    "ror": {
+      "owners": [
+        {
+          "name": "HMT Nagar Cooperative Stores & N. Rajeshwar",
+          "relation": "Co-ownership / Leasehold Partnership",
+          "share_percent": 100,
+          "aadhaar_hash": "XXXX-XXXX-9011 (Masked)",
+          "extent_acres": 0.093
+        }
+      ],
+      "tenancy_type": "Commercial Freehold",
+      "mutation_number": "DHR-2016-5519",
+      "mutation_date": "12-Sep-2016",
+      "status": "Verified & Active",
+      "dispute_status": "Clear / No Litigation"
+    },
+    "registration": {
+      "registered_deed_no": "UPP-1-02844-2016",
+      "registration_date": "29-Aug-2016",
+      "sub_registrar_office": "SRO Uppal",
+      "deed_type": "Absolute Sale Deed",
+      "stamp_duty_paid": "₹ 19,50,000",
+      "status": "Registered & Digitized"
+    },
+    "building_permission": {
+      "has_permission": true,
+      "permit_number": "GHMC-TP-2017-0211",
+      "sanction_date": "15-Apr-2017",
+      "approved_use": "Commercial / Mixed Use",
+      "approved_floors": "G+2 (Height: 10.5m)",
+      "validity_expiry": "Permanent (OC Issued)",
+      "status": "Occupancy Certificate (OC) Issued"
+    },
+    "encumbrance": {
+      "is_encumbered": false,
+      "status": "Non-Encumbered Certificate (NEC) Issued (Clean Title)",
+      "last_search_period": "01-Jan-1983 to 01-Jan-2026",
+      "bank_name": "None",
+      "loan_amount": "₹ 0",
+      "charge_status": "Free of Liens"
+    },
+    "property_tax": {
+      "assessment_number": "PTIN-1080209419",
+      "financial_year": "2025-26",
+      "annual_demand": "₹ 38,500",
+      "amount_paid": "₹ 38,500",
+      "receipt_number": "GHMC-TX-2025-88198",
+      "payment_date": "11-Apr-2025",
+      "status": "Paid & Fully Cleared (Commercial Assessment)"
+    },
+    "utilities": {
+      "electricity_connection": "TSSPDCL USC #104928179 (LT-2 Non-Domestic / Commercial 3-Phase)",
+      "water_source": "HMWSSB CAN #082914108 (Commercial Water Supply)",
+      "sewerage_network": "HMWSSB Underground Drainage (Connected)"
+    },
+    "environmental_restrictions": {
+      "is_sensitive": false,
+      "buffer_zone": "Standard Setback",
+      "water_body_proximity": "1.4 km from Pedda Cheruvu",
+      "forest_clearance_required": false,
+      "status": "Fully Compliant"
+    },
+    "ai_alert": {
+      "has_alert": false,
+      "alert_type": "None",
+      "confidence_score": 0,
+      "detected_date": "N/A",
+      "status": "Clear / Verified Non-Encroached",
+      "principle_note": "Colony boundaries and structural footprint match GHMC layout approval."
+    },
+    "audit_trail": [
+      {
+        "date": "29-Aug-2016",
+        "actor": "Sub-Registrar Uppal",
+        "action": "SALE_DEED_REGISTERED",
+        "description": "Deed registered under doc UPP-1-02844-2016."
+      }
+    ]
+  },
+  {
+    "ulpin": "IN36-5840-0070-0001",
+    "survey_number": "70/Park",
+    "sub_division": "Colony Park",
+    "khata_number": "KT-HMT-PARK",
+    "village": "Nacharam",
+    "mandal": "Uppal",
+    "district": "Medchal-Malkajgiri",
+    "state": "Telangana",
+    "area_acres": 0.75,
+    "area_sq_m": 3035,
+    "land_use": "Government / Public",
+    "current_crop": "Public Park & Walking Track",
+    "market_valuation_inr": "₹ 14,50,00,000 (Govt Dedicated)",
+    "guidance_value_inr": "₹ 48,000 / sq.yd",
+    "encroachment_status": "NON-ENCROACHED",
+    "case_study": "Non-Encroached Residential Colony Case: HMT Nagar Colony, Nacharam",
+    "zoning": {
+      "masterplan_zone": "Open Space & Recreational Green Belt (P-1)",
+      "permitted_uses": "Public Park, Walking Track, Open Gym, Children Play Area, Tree Plantation",
+      "max_fsi": 0,
+      "setback_front_m": 0,
+      "conversion_eligibility": "Inalienable Public Park (Vested in GHMC under Sec 388 HMC Act)"
+    },
+    "ror": {
+      "owners": [
+        {
+          "name": "GHMC Urban Biodiversity Wing (Govt of Telangana)",
+          "relation": "Municipal Corporation Vested Public Open Space",
+          "share_percent": 100,
+          "aadhaar_hash": "GOVT-ENTITY-GHMC",
+          "extent_acres": 0.75
+        }
+      ],
+      "tenancy_type": "Public Open Space",
+      "mutation_number": "GHMC-OS-1984-01",
+      "mutation_date": "10-Jan-1984",
+      "status": "Verified & Protected",
+      "dispute_status": "Clear / Non-Litigant Public Asset"
+    },
+    "registration": {
+      "registered_deed_no": "UPP-1-GIFT-1983-004",
+      "registration_date": "15-Dec-1983",
+      "sub_registrar_office": "SRO Uppal",
+      "deed_type": "Gift Settlement Deed to Municipality",
+      "stamp_duty_paid": "₹ 0 (Exempted)",
+      "status": "Vested in Municipality"
+    },
+    "building_permission": {
+      "has_permission": false,
+      "permit_number": "N/A",
+      "sanction_date": "N/A",
+      "approved_use": "Open Recreational Space Only",
+      "approved_floors": "Zero Structural Enclosure",
+      "validity_expiry": "Permanent Protection",
+      "status": "Protected Green Zone"
+    },
+    "encumbrance": {
+      "is_encumbered": false,
+      "status": "Government Inalienable Property (Free of Liens)",
+      "last_search_period": "01-Jan-1983 to 01-Jan-2026",
+      "bank_name": "None",
+      "loan_amount": "₹ 0",
+      "charge_status": "Inalienable"
+    },
+    "property_tax": {
+      "assessment_number": "PTIN-EXEMPT-0001",
+      "financial_year": "2025-26",
+      "annual_demand": "₹ 0",
+      "amount_paid": "₹ 0",
+      "receipt_number": "GHMC-EXEMPT-CERT",
+      "payment_date": "01-Apr-2025",
+      "status": "Exempted (Municipal Park)"
+    },
+    "utilities": {
+      "electricity_connection": "TSSPDCL Streetlight & Park Illuminator Feeders",
+      "water_source": "Borewell & HMWSSB Park Sprinkler Connection",
+      "sewerage_network": "Public Stormwater Channel (Compliant)"
+    },
+    "environmental_restrictions": {
+      "is_sensitive": true,
+      "buffer_zone": "Recreational Green Buffer",
+      "water_body_proximity": "1.4 km from Pedda Cheruvu",
+      "forest_clearance_required": false,
+      "status": "Fully Compliant"
+    },
+    "ai_alert": {
+      "has_alert": false,
+      "alert_type": "None",
+      "confidence_score": 0,
+      "detected_date": "N/A",
+      "status": "Clear / Verified Non-Encroached",
+      "principle_note": "Continuous AI satellite monitoring active. 0% boundary variance, zero structural encroachment within park boundary."
+    },
+    "audit_trail": [
+      {
+        "date": "15-Dec-1983",
+        "actor": "Colony Developer",
+        "action": "GIFT_DEED_REGISTERED",
+        "description": "0.75 Acres park land gifted and handed over to GHMC."
+      },
+      {
+        "date": "10-Jan-2024",
+        "actor": "GHMC Urban Biodiversity",
+        "action": "PARK_FENCING_RENEWAL",
+        "description": "Compound wall and solar LED illuminators verified and maintained."
+      }
+    ]
+  },
+  {
+    "ulpin": "IN36-5840-0074-0002",
+    "survey_number": "74/CH",
+    "sub_division": "Community Hall",
+    "khata_number": "KT-HMT-RWA",
+    "village": "Nacharam",
+    "mandal": "Uppal",
+    "district": "Medchal-Malkajgiri",
+    "state": "Telangana",
+    "area_acres": 0.35,
+    "area_sq_m": 1416,
+    "land_use": "Government / Public",
+    "current_crop": "Community Hall & Senior Citizen Center (G+1)",
+    "market_valuation_inr": "₹ 6,80,00,000",
+    "guidance_value_inr": "₹ 48,000 / sq.yd",
+    "encroachment_status": "NON-ENCROACHED",
+    "case_study": "Non-Encroached Residential Colony Case: HMT Nagar Colony, Nacharam",
+    "zoning": {
+      "masterplan_zone": "Civic Amenities & Public Utility Zone (C-1)",
+      "permitted_uses": "Residents Welfare Association Hall, Senior Citizen Center, Polling Station",
+      "max_fsi": 1.25,
+      "setback_front_m": 4,
+      "conversion_eligibility": "Dedicated Civic Amenity Site"
+    },
+    "ror": {
+      "owners": [
+        {
+          "name": "HMT Nagar Residents Welfare Association (Regd. 412/1988)",
+          "relation": "Registered Colony Welfare Association",
+          "share_percent": 100,
+          "aadhaar_hash": "REGD-SOC-412-1988",
+          "extent_acres": 0.35
+        }
+      ],
+      "tenancy_type": "Civic Amenity / RWA Trust",
+      "mutation_number": "CA-UPP-1989-11",
+      "mutation_date": "14-Feb-1989",
+      "status": "Verified & Active",
+      "dispute_status": "Clear / No Litigation"
+    },
+    "registration": {
+      "registered_deed_no": "UPP-1-CA-1988-02",
+      "registration_date": "12-Nov-1988",
+      "sub_registrar_office": "SRO Uppal",
+      "deed_type": "Civic Amenity Trust Conveyance",
+      "stamp_duty_paid": "₹ 50,000",
+      "status": "Registered & Digitized"
+    },
+    "building_permission": {
+      "has_permission": true,
+      "permit_number": "GHMC-TP-1992-0144",
+      "sanction_date": "20-Apr-1992",
+      "approved_use": "Community Hall",
+      "approved_floors": "G+1 (Height: 7.5m)",
+      "validity_expiry": "Permanent (OC Issued)",
+      "status": "Occupancy Certificate (OC) Issued"
+    },
+    "encumbrance": {
+      "is_encumbered": false,
+      "status": "Non-Encumbered Certificate (NEC) Issued (Clean Title)",
+      "last_search_period": "01-Jan-1983 to 01-Jan-2026",
+      "bank_name": "None",
+      "loan_amount": "₹ 0",
+      "charge_status": "Free of Liens"
+    },
+    "property_tax": {
+      "assessment_number": "PTIN-1080209420",
+      "financial_year": "2025-26",
+      "annual_demand": "₹ 8,400",
+      "amount_paid": "₹ 8,400",
+      "receipt_number": "GHMC-TX-2025-88199",
+      "payment_date": "05-Apr-2025",
+      "status": "Paid & Fully Cleared"
+    },
+    "utilities": {
+      "electricity_connection": "TSSPDCL USC #104928180 (LT-2 Institutional)",
+      "water_source": "HMWSSB CAN #082914109 (Institutional)",
+      "sewerage_network": "HMWSSB Underground Drainage (Connected)"
+    },
+    "environmental_restrictions": {
+      "is_sensitive": false,
+      "buffer_zone": "Standard Setback",
+      "water_body_proximity": "1.4 km from Pedda Cheruvu",
+      "forest_clearance_required": false,
+      "status": "Fully Compliant"
+    },
+    "ai_alert": {
+      "has_alert": false,
+      "alert_type": "None",
+      "confidence_score": 0,
+      "detected_date": "N/A",
+      "status": "Clear / Verified Non-Encroached",
+      "principle_note": "Colony boundaries and structural footprint match GHMC layout approval."
+    },
+    "audit_trail": [
+      {
+        "date": "12-Nov-1988",
+        "actor": "Sub-Registrar Uppal",
+        "action": "TRUST_CONVEYANCE_REGISTERED",
+        "description": "Civic amenity site handed over to HMT Nagar Residents Welfare Association."
       }
     ]
   }

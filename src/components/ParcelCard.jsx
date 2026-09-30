@@ -46,6 +46,19 @@ export default function ParcelCard({ parcel, onClose }) {
         </button>
       </div>
 
+      {/* Case Study Banner (if applicable) */}
+      {parcel.case_study && (
+        <div className="bg-emerald-50 border-b border-emerald-200 p-2.5 text-xs text-emerald-900 flex items-center gap-2">
+          <ShieldCheck className="w-4 h-4 text-emerald-600 flex-shrink-0" />
+          <div>
+            <span className="font-bold text-emerald-950 uppercase tracking-wide text-[9px] bg-emerald-200 px-1.5 py-0.5 rounded mr-1">
+              Case Study
+            </span>
+            <strong className="text-emerald-900 text-[11px]">{parcel.case_study}</strong>
+          </div>
+        </div>
+      )}
+
       {/* AI Alert Alert Banner (if applicable) */}
       {isAlert && (
         <div className="bg-rose-50 border-b border-rose-200 p-3 text-xs text-rose-900 flex items-start gap-2">
@@ -122,6 +135,24 @@ export default function ParcelCard({ parcel, onClose }) {
             </Badge>
           </div>
 
+          {parcel.encroachment_status && (
+            <div className="flex items-center justify-between py-1.5 border-b border-slate-100">
+              <span className="text-slate-600 font-medium">Encroachment Status:</span>
+              <Badge variant={parcel.encroachment_status === 'NON-ENCROACHED' ? 'success' : 'danger'}>
+                {parcel.encroachment_status}
+              </Badge>
+            </div>
+          )}
+
+          {parcel.building_permission && (
+            <div className="flex items-center justify-between py-1.5 border-b border-slate-100">
+              <span className="text-slate-600 font-medium">Sanctioned Floors:</span>
+              <span className="font-semibold text-slate-800 text-xs">
+                {parcel.building_permission.approved_floors || 'N/A'}
+              </span>
+            </div>
+          )}
+
           <div className="flex items-center justify-between py-1.5">
             <span className="text-slate-600 font-medium">AI Alert Status:</span>
             <Badge variant={isAlert ? 'alert' : 'success'}>
@@ -140,23 +171,32 @@ export default function ParcelCard({ parcel, onClose }) {
       </div>
 
       {/* Action Footer */}
-      <div className="p-3 bg-slate-50 border-t border-slate-200 mt-auto flex items-center gap-2">
-        <Link
-          to={`/parcel/${parcel.ulpin}`}
-          className="flex-1 flex items-center justify-center gap-2 px-3 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded font-medium text-xs shadow transition-colors"
-        >
-          <span>View Full Parcel 360° Dossier</span>
-          <ExternalLink className="w-3.5 h-3.5" />
-        </Link>
-        {isAlert && (
+      <div className="p-3 bg-slate-50 border-t border-slate-200 mt-auto flex flex-col gap-2">
+        <div className="flex items-center gap-2">
           <Link
-            to="/change-detection"
-            className="px-3 py-2 bg-amber-600 hover:bg-amber-700 text-white rounded font-medium text-xs flex items-center gap-1 shadow transition-colors"
-            title="Inspect Satellite Variance"
+            to={`/parcel/${parcel.ulpin}`}
+            className="flex-1 flex items-center justify-center gap-1.5 px-3 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded font-medium text-xs shadow transition-colors"
           >
-            <span>Inspect AI</span>
+            <span>Parcel 360°</span>
+            <ExternalLink className="w-3.5 h-3.5" />
           </Link>
-        )}
+          <Link
+            to={`/citizen/transfer?ulpin=${parcel.ulpin}`}
+            className="px-3 py-2 bg-emerald-600 hover:bg-emerald-700 text-white rounded font-medium text-xs shadow transition-colors flex items-center gap-1"
+            title="Submit Ownership Transfer"
+          >
+            <span>Transfer</span>
+          </Link>
+          {isAlert && (
+            <Link
+              to="/change-detection"
+              className="px-3 py-2 bg-amber-600 hover:bg-amber-700 text-white rounded font-medium text-xs flex items-center gap-1 shadow transition-colors"
+              title="Inspect Satellite Variance"
+            >
+              <span>AI</span>
+            </Link>
+          )}
+        </div>
       </div>
     </div>
   );

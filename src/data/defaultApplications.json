@@ -1,0 +1,381 @@
+[
+  {
+    "applicationId": "TRF-2026-00124",
+    "ulpin": "IN29-0412-0014-9201",
+    "surveyNumber": "14/1A",
+    "village": "Varaha Nagar",
+    "mandal": "Rampur",
+    "district": "Ballari",
+    "state": "Karnataka",
+    "areaAcres": 2.45,
+    "currentOwner": {
+      "name": "Rameshappa Gowda",
+      "relation": "S/o Late Ningappa Gowda",
+      "aadhaarHash": "XXXX-XXXX-8912",
+      "sharePercent": 100
+    },
+    "applicant": {
+      "fullName": "Aarav Kulkarni",
+      "relation": "S/o Vittal Rao Kulkarni",
+      "aadhaarHash": "XXXX-XXXX-4521",
+      "email": "aarav.kulkarni@example.com",
+      "phone": "+91 98450 12345",
+      "address": "#42, Temple Road, Ward 3, Rampur, Ballari - 583101",
+      "applicantType": "BUYER"
+    },
+    "transferDetails": {
+      "transferType": "Sale Deed",
+      "proposedShare": 100,
+      "considerationAmountINR": "₹ 48,00,000",
+      "guidanceValueINR": "₹ 44,10,000",
+      "stampDutyPaidINR": "₹ 2,64,000",
+      "registrationFeePaidINR": "₹ 48,000",
+      "challanNumber": "KRN-E-CHALLAN-2026-90412",
+      "reason": "Outright agricultural land sale under Karnataka Land Revenue Act Section 95."
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "name": "Registered Sale Deed (Scanned Draft)",
+        "fileType": "PDF",
+        "fileSize": "3.4 MB",
+        "docNumber": "DEED-DRAFT-BLR-2026-041",
+        "uploadedAt": "2026-02-08T10:15:00Z",
+        "isVerified": true,
+        "verifiedBy": "OFF-1024",
+        "verifiedAt": "2026-02-09T14:30:00Z",
+        "remarks": "E-Stamp challan verified against treasury portal."
+      },
+      {
+        "id": "DOC-02",
+        "name": "Current Record of Rights (Pahani / RTC)",
+        "fileType": "PDF",
+        "fileSize": "1.2 MB",
+        "docNumber": "RTC-KT-4081-2025",
+        "uploadedAt": "2026-02-08T10:15:00Z",
+        "isVerified": true,
+        "verifiedBy": "OFF-1024",
+        "verifiedAt": "2026-02-09T14:32:00Z",
+        "remarks": "Matches revenue records. Khata KT-4081 clean."
+      },
+      {
+        "id": "DOC-03",
+        "name": "Non-Encumbrance Certificate (NEC 30 Years)",
+        "fileType": "PDF",
+        "fileSize": "2.8 MB",
+        "docNumber": "EC-SRO-RMP-2026-118",
+        "uploadedAt": "2026-02-08T10:16:00Z",
+        "isVerified": false,
+        "verifiedBy": null,
+        "verifiedAt": null,
+        "remarks": "Pending officer seal verification."
+      },
+      {
+        "id": "DOC-04",
+        "name": "Buyer & Seller Aadhaar Verification (KMS Masked)",
+        "fileType": "PDF",
+        "fileSize": "950 KB",
+        "docNumber": "UIDAI-MASKED-VERIF-98",
+        "uploadedAt": "2026-02-08T10:17:00Z",
+        "isVerified": false,
+        "verifiedBy": null,
+        "verifiedAt": null,
+        "remarks": null
+      },
+      {
+        "id": "DOC-05",
+        "name": "Village Panchayat Property Tax Receipt (2025-26)",
+        "fileType": "PDF",
+        "fileSize": "680 KB",
+        "docNumber": "TAX-VN-AG-0412-CLEAR",
+        "uploadedAt": "2026-02-08T10:18:00Z",
+        "isVerified": false,
+        "verifiedBy": null,
+        "verifiedAt": null,
+        "remarks": null
+      }
+    ],
+    "status": "SUBMITTED",
+    "assignedOffice": "Hyderabad Sub-Registrar Office",
+    "assignedOfficerId": "SRO-TS-001",
+    "assignedOfficerName": "Ramesh Kumar",
+    "assignedOfficerRole": "Sub-Registrar",
+    "submittedAt": "2026-02-08T10:20:00Z",
+    "updatedAt": "2026-02-09T14:32:00Z",
+    "urgency": "Normal",
+    "officerRemarks": "Initial document screening started. 2 of 5 documents verified. Awaiting final sub-registrar sign-off.",
+    "citizenClarification": null,
+    "auditTrail": [
+      {
+        "action": "APPLICATION_SUBMITTED",
+        "actor": "Aarav Kulkarni (Citizen)",
+        "actorRole": "CITIZEN",
+        "timestamp": "2026-02-08T10:20:00Z",
+        "details": "Online application lodged for Survey 14/1A. Reference TRF-2026-00124 generated."
+      },
+      {
+        "action": "DOCUMENTS_PARTIALLY_VERIFIED",
+        "actor": "Ramesh Kumar (SRO-TS-001)",
+        "actorRole": "SUB_REGISTRAR",
+        "timestamp": "2026-02-09T14:32:00Z",
+        "details": "Sale deed draft and RTC verified against Bhoomi/Kaveri database."
+      }
+    ]
+  },
+  {
+    "applicationId": "TRF-2026-00118",
+    "ulpin": "IN29-0412-0014-9202",
+    "surveyNumber": "14/1B",
+    "village": "Varaha Nagar",
+    "mandal": "Rampur",
+    "district": "Ballari",
+    "state": "Karnataka",
+    "areaAcres": 1.80,
+    "currentOwner": {
+      "name": "Basavaraj Patil",
+      "relation": "S/o Sharanappa Patil",
+      "aadhaarHash": "XXXX-XXXX-6178",
+      "sharePercent": 100
+    },
+    "applicant": {
+      "fullName": "Meenakshi Devi",
+      "relation": "W/o Chandrashekhar Rao",
+      "aadhaarHash": "XXXX-XXXX-9014",
+      "email": "meenakshi.devi@example.com",
+      "phone": "+91 98451 98765",
+      "address": "Plot #18, Teachers Colony, Rampur - 583101",
+      "applicantType": "BUYER"
+    },
+    "transferDetails": {
+      "transferType": "Sale Deed",
+      "proposedShare": 100,
+      "considerationAmountINR": "₹ 32,40,000",
+      "guidanceValueINR": "₹ 32,40,000",
+      "stampDutyPaidINR": "₹ 1,78,200",
+      "registrationFeePaidINR": "₹ 32,400",
+      "challanNumber": "KRN-E-CHALLAN-2026-88102",
+      "reason": "Agricultural land acquisition."
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "name": "Draft Sale Agreement",
+        "fileType": "PDF",
+        "fileSize": "2.1 MB",
+        "docNumber": "DRAFT-SA-2026-99",
+        "uploadedAt": "2026-01-29T11:00:00Z",
+        "isVerified": true,
+        "verifiedBy": "OFF-1024",
+        "verifiedAt": "2026-01-30T10:10:00Z",
+        "remarks": "Agreement terms verified."
+      },
+      {
+        "id": "DOC-02",
+        "name": "Bank NOC / Lien Discharge Certificate",
+        "fileType": "PDF",
+        "fileSize": "1.5 MB",
+        "docNumber": "PENDING-BANK-NOC",
+        "uploadedAt": "2026-01-29T11:05:00Z",
+        "isVerified": false,
+        "verifiedBy": null,
+        "verifiedAt": null,
+        "remarks": "Missing Canara Bank Agricultural Loan clearance letter."
+      }
+    ],
+    "status": "CLARIFICATION_REQUIRED",
+    "assignedOffice": "Hyderabad Sub-Registrar Office",
+    "assignedOfficerId": "SRO-TS-001",
+    "assignedOfficerName": "Ramesh Kumar",
+    "assignedOfficerRole": "Sub-Registrar",
+    "submittedAt": "2026-01-29T11:10:00Z",
+    "updatedAt": "2026-01-30T10:15:00Z",
+    "urgency": "High",
+    "officerRemarks": "Parcel 14/1B shows an active CERSAI mortgage lien in favor of Canara Bank Rampur Branch. Please upload the official Bank No-Objection Certificate (NOC) and loan closure receipt to proceed with registration.",
+    "citizenClarification": "Applicant notified. Citizen has contacted Canara Bank Rampur for loan closure certificate issuance.",
+    "auditTrail": [
+      {
+        "action": "APPLICATION_SUBMITTED",
+        "actor": "Meenakshi Devi (Citizen)",
+        "actorRole": "CITIZEN",
+        "timestamp": "2026-01-29T11:10:00Z",
+        "details": "Application submitted for Survey 14/1B."
+      },
+      {
+        "action": "CLARIFICATION_REQUESTED",
+        "actor": "Ramesh Kumar (SRO-TS-001)",
+        "actorRole": "SUB_REGISTRAR",
+        "timestamp": "2026-01-30T10:15:00Z",
+        "details": "Lien detected. Bank NOC requested from applicant."
+      }
+    ]
+  },
+  {
+    "applicationId": "TRF-2026-00095",
+    "ulpin": "IN29-0412-0015-1033",
+    "surveyNumber": "15/2",
+    "village": "Varaha Nagar",
+    "mandal": "Rampur",
+    "district": "Ballari",
+    "state": "Karnataka",
+    "areaAcres": 0.85,
+    "currentOwner": {
+      "name": "Prabhavati & Shashi Kumar",
+      "relation": "Legal Heirs of Late K. Somappa",
+      "aadhaarHash": "XXXX-XXXX-3341",
+      "sharePercent": 100
+    },
+    "applicant": {
+      "fullName": "Smt. Prabhavati Somappa",
+      "relation": "W/o Late K. Somappa",
+      "aadhaarHash": "XXXX-XXXX-3341",
+      "email": "prabhavati.s@example.com",
+      "phone": "+91 94480 55123",
+      "address": "Main Road, Varaha Nagar, Ballari",
+      "applicantType": "LEGAL_HEIR"
+    },
+    "transferDetails": {
+      "transferType": "Succession / Family Partition",
+      "proposedShare": 100,
+      "considerationAmountINR": "₹ 0 (Inheritance)",
+      "guidanceValueINR": "₹ 21,25,000",
+      "stampDutyPaidINR": "₹ 5,000",
+      "registrationFeePaidINR": "₹ 2,000",
+      "challanNumber": "KRN-PARTITION-2026-019",
+      "reason": "Testamentary succession and Jamabandi legal heir entry."
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "name": "Registered Family Settlement Deed",
+        "fileType": "PDF",
+        "fileSize": "4.2 MB",
+        "docNumber": "DEED-BLR-0192-2026",
+        "uploadedAt": "2026-01-10T09:00:00Z",
+        "isVerified": true,
+        "verifiedBy": "OFF-1024",
+        "verifiedAt": "2026-01-12T11:00:00Z",
+        "remarks": "Registered and authenticated."
+      },
+      {
+        "id": "DOC-02",
+        "name": "Surviving Family Member Certificate (Tehsildar)",
+        "fileType": "PDF",
+        "fileSize": "1.1 MB",
+        "docNumber": "SMC-TEH-RMP-2025-90",
+        "uploadedAt": "2026-01-10T09:05:00Z",
+        "isVerified": true,
+        "verifiedBy": "OFF-1088",
+        "verifiedAt": "2026-01-12T11:05:00Z",
+        "remarks": "Inquiry completed by Revenue Inspector."
+      }
+    ],
+    "status": "APPROVED",
+    "assignedOffice": "Taluk Office & SRO Rampur",
+    "assignedOfficerId": "OFF-1024",
+    "assignedOfficerName": "Smt. Sunitha Rao, KAS",
+    "assignedOfficerRole": "Senior Sub-Registrar",
+    "submittedAt": "2026-01-10T09:10:00Z",
+    "updatedAt": "2026-01-15T15:30:00Z",
+    "urgency": "Normal",
+    "officerRemarks": "Family partition verified with revenue records and local inquiry. Mutation approved under Karnataka Land Revenue Act Section 128.",
+    "citizenClarification": null,
+    "auditTrail": [
+      {
+        "action": "APPLICATION_SUBMITTED",
+        "actor": "Smt. Prabhavati Somappa",
+        "actorRole": "CITIZEN",
+        "timestamp": "2026-01-10T09:10:00Z",
+        "details": "Succession application filed."
+      },
+      {
+        "action": "DOCUMENTS_VERIFIED",
+        "actor": "Smt. Sunitha Rao (OFF-1024)",
+        "actorRole": "SUB_REGISTRAR",
+        "timestamp": "2026-01-12T11:05:00Z",
+        "details": "All certificates authenticated."
+      },
+      {
+        "action": "TRANSFER_APPROVED",
+        "actor": "Smt. Sunitha Rao (OFF-1024)",
+        "actorRole": "SUB_REGISTRAR",
+        "timestamp": "2026-01-15T15:30:00Z",
+        "details": "Ownership transfer approved. Mutation certificate generated."
+      }
+    ]
+  },
+  {
+    "applicationId": "TRF-2026-00082",
+    "ulpin": "IN29-0412-0018-7711",
+    "surveyNumber": "18/3",
+    "village": "Varaha Nagar",
+    "mandal": "Rampur",
+    "district": "Ballari",
+    "state": "Karnataka",
+    "areaAcres": 3.40,
+    "currentOwner": {
+      "name": "K. V. Enterprises (Managing Partner: K. Venkataswamy)",
+      "relation": "Registered Commercial Firm",
+      "aadhaarHash": "XXXX-XXXX-7712",
+      "sharePercent": 100
+    },
+    "applicant": {
+      "fullName": "Sunrise Mega Developers Pvt Ltd",
+      "relation": "Authorized Director: Sandeep Jain",
+      "aadhaarHash": "XXXX-XXXX-1109",
+      "email": "compliance@sunrisemega.com",
+      "phone": "+91 99001 22334",
+      "address": "Infantry Road, Bangalore - 560001",
+      "applicantType": "BUYER"
+    },
+    "transferDetails": {
+      "transferType": "Commercial Conveyance Deed",
+      "proposedShare": 100,
+      "considerationAmountINR": "₹ 1,80,00,000",
+      "guidanceValueINR": "₹ 1,50,00,000",
+      "stampDutyPaidINR": "₹ 10,80,000",
+      "registrationFeePaidINR": "₹ 1,80,000",
+      "challanNumber": "KRN-E-COMM-2025-4412",
+      "reason": "Commercial warehouse acquisition."
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "name": "Commercial Conveyance Draft",
+        "fileType": "PDF",
+        "fileSize": "5.6 MB",
+        "docNumber": "DRAFT-COMM-7711",
+        "uploadedAt": "2025-12-05T14:00:00Z",
+        "isVerified": false,
+        "verifiedBy": null,
+        "verifiedAt": null,
+        "remarks": null
+      }
+    ],
+    "status": "REJECTED",
+    "assignedOffice": "Sub-Registrar Office, Rampur",
+    "assignedOfficerId": "OFF-1024",
+    "assignedOfficerName": "Smt. Sunitha Rao, KAS",
+    "assignedOfficerRole": "Senior Sub-Registrar",
+    "submittedAt": "2025-12-05T14:10:00Z",
+    "updatedAt": "2025-12-08T11:45:00Z",
+    "urgency": "High",
+    "officerRemarks": "REGISTRATION REJECTED: Parcel 18/3 is subject to an active interim status-quo injunction issued by the High Court of Karnataka (WP/18902/2023) regarding unauthorized construction in the 30m lake foreshore buffer. Conveyance is legally prohibited pending High Court disposal.",
+    "citizenClarification": null,
+    "auditTrail": [
+      {
+        "action": "APPLICATION_SUBMITTED",
+        "actor": "Sunrise Mega Developers Pvt Ltd",
+        "actorRole": "CITIZEN",
+        "timestamp": "2025-12-05T14:10:00Z",
+        "details": "Application lodged for commercial transfer."
+      },
+      {
+        "action": "TRANSFER_REJECTED",
+        "actor": "Smt. Sunitha Rao (OFF-1024)",
+        "actorRole": "SUB_REGISTRAR",
+        "timestamp": "2025-12-08T11:45:00Z",
+        "details": "Application rejected pursuant to High Court WP/18902/2023 injunction."
+      }
+    ]
+  }
+]
